@@ -26,6 +26,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&layout=donut-vertical)](https://github.com/marcia-moreira/github-readme-stats)
 
 <!-- Extensão instalada no VSCode para monitoramento de tempo de codigo -->
+<!-- Não está funcionando pois não está público -->
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira)](https://github.com/marcia-moreira/github-readme-stats)
 
 
