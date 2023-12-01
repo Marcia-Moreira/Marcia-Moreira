@@ -2,10 +2,17 @@
 
 <!-- Adiciona um Quadro de Status: -->
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/marcia-moreira/github-readme-stats#gh-light-mode-only)
 
-<!-- Adiciona um Card de um Repositório Específico:-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcia-moreira&repo=github-readme-stats)](https://github.com/marcia-moreira/github-readme-stats)
+<!-- -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&size_weight=0.5&count_weight=0.5)
+<!-- Adiciona um Card de um Repositório Específicos:-->
+## Repositórios Importantes:
+<!--001 Challange_01-WoMakersCode-Intro_Star_Wars_MM -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcia-moreira&repo=Challange_01-WoMakersCode-Intro_Star_Wars_MM)](https://github.com/marcia-moreira/github-readme-stats)
+
+<!--002 MM_Portfolio_Responsivo_com_Bootstrap_Flask -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcia-moreira&repo=MM_Portfolio_Responsivo_com_Bootstrap_Flask)](https://github.com/marcia-moreira/github-readme-stats)
 
 
 <!-- -->
