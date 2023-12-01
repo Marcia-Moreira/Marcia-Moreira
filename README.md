@@ -26,7 +26,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&layout=donut-vertical)](https://github.com/marcia-moreira/github-readme-stats)
 
 <!-- Extensão instalada no VSCode para monitoramento de tempo de codigo -->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=waka_17f7498b-2522-46a6-b4dc-2ab0bcd7e19d)](https://github.com/marcia-moreira/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira)](https://github.com/marcia-moreira/github-readme-stats)
 
 
 <!--Chave WakaTime: waka_17f7498b-2522-46a6-b4dc-2ab0bcd7e19d -->
