@@ -15,8 +15,27 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcia-moreira&repo=MM_Portfolio_Responsivo_com_Bootstrap_Flask)](https://github.com/marcia-moreira/github-readme-stats)
 
 
+<!-- Pins Extras: Precisamos descobrir como usar-->
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+
+<!-- Mostrar mais linguas: -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&langs_count=8)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&layout=donut)](https://github.com/marcia-moreira/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&layout=donut-vertical)](https://github.com/marcia-moreira/github-readme-stats)
+
+<!-- Extensão instalada no VSCode para monitoramento de tempo de codigo -->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- -->
 <!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+
+
 
 <!--
 <h1 align="center">Oi 👋, Eu sou a Marcia Moreira</h1>
