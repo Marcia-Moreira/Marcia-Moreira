@@ -32,6 +32,10 @@
 
 <!--Chave WakaTime:  -->
 <!-- -->
+GET https://YOUR-DEPLOY/api/badge?style=${style}&color=${color}&label=${label}
+
+![Wakatime Hours](https://YOUR-DEPLOY/api/badge?label=Codando+logada+WakaTime)
+
 <!-- -->
 <!-- -->
 <!-- -->
