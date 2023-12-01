@@ -30,7 +30,7 @@
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira)](https://github.com/marcia-moreira/github-readme-stats)
 
 
-<!--Chave WakaTime: waka_17f7498b-2522-46a6-b4dc-2ab0bcd7e19d -->
+<!--Chave WakaTime:  -->
 <!-- -->
 <!-- -->
 <!-- -->
