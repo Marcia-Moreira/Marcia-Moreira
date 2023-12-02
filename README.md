@@ -134,19 +134,19 @@ GET https://YOUR-DEPLOY/api/badge?style=${style}&color=${color}&label=${label}
 ## WakaTime:
 
 <!-- MarkDown -->
-[![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=social)](https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f)
-
+[![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=flat-square)](https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f)
 
 <!-- HTML: -->
 <a href="https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f"><img src="https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg" alt="Total time coded since Dec 1 2023" /></a>
 
-
-
 <!--
 Use ?style=para personalizar a aparência do seu crachá.
-
 Os estilos suportados são default, plastic, flat, flat-square, for-the-badgee social.
 -->
+
+
+
+
 <!-- -->
 <!-- -->
 <!-- -->
