@@ -1,7 +1,7 @@
 <h2 align="center">Oi 👋, Eu sou a Marcia Moreira</h1>
 
 <!-- Adiciona um Quadro de Status: &layout -->
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/marcia-moreira/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marcia-Moreira&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Marcia-Moreira/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/marcia-moreira/github-readme-stats#gh-light-mode-only)
 
 
