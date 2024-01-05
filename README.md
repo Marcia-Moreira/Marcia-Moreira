@@ -1,65 +1,77 @@
-<h2 align="center">Olá, Eu sou a Marcia Moreira :m:|:m: </h1>
+<h2 align="center">Olá, Eu sou a :m:arcia :m:oreira </h2>
 
 <!-- Adiciona um Quadro de Status: &layout -->
+### Adiciona um Quadro de Status: &layout ? tema dark
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/marcia-moreira/github-readme-stats#gh-dark-mode-only)
 
+### Adiciona um Quadro de Status: &layout ? tema default
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/marcia-moreira/github-readme-stats#gh-light-mode-only)
 
 
 <!-- -->
+### Top Langs?
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&size_weight=0.5&count_weight=0.5)
+
 <!-- Adiciona um Card de um Repositório Específicos:-->
-## Repositórios Importantes:
+## Repositórios Importantes: ?
 <!--001 Challange_01-WoMakersCode-Intro_Star_Wars_MM -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcia-moreira&repo=Challange_01-WoMakersCode-Intro_Star_Wars_MM)](https://github.com/marcia-moreira/github-readme-stats)
+*[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcia-moreira&repo=Challange_01-WoMakersCode-Intro_Star_Wars_MM)](https://github.com/marcia-moreira/github-readme-stats)
 
 <!--002 MM_Portfolio_Responsivo_com_Bootstrap_Flask -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcia-moreira&repo=MM_Portfolio_Responsivo_com_Bootstrap_Flask)](https://github.com/marcia-moreira/github-readme-stats)
+*[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcia-moreira&repo=MM_Portfolio_Responsivo_com_Bootstrap_Flask)](https://github.com/marcia-moreira/github-readme-stats)
 
 
 <!-- Pins Extras: Precisamos descobrir como usar-->
+### Pins Extras: Precisamos descobrir como usar?
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
 <!-- Mostrar mais linguas: -->
+### Mostrar mais linguas:?
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&langs_count=8)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&layout=donut)](https://github.com/marcia-moreira/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&layout=donut-vertical)](https://github.com/marcia-moreira/github-readme-stats)
 
-<!-- Extensão instalada no VSCode para monitoramento de tempo de codigo -->
+<!-- WAKATIME - Extensão instalada no VSCode para monitoramento de tempo de codigo -->
 <!-- Não está funcionando pois não está público -->
+#### Extensão instalada no VSCode para monitoramento de tempo de codigo: wakaTime?
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira)](https://github.com/marcia-moreira/github-readme-stats)
 
 
 <!--Chave WakaTime:  -->
 <!-- -->
+### Chave WakaTime:?
 GET https://YOUR-DEPLOY/api/badge?style=${style}&color=${color}&label=${label}
 
+### Chave WakaTime:? horas
 ![Wakatime Hours](https://YOUR-DEPLOY/api/badge?label=Codando+logada+WakaTime)
 
 <!--BADGES em: https://github.com/Ileriayo/markdown-badges#badges -->
+### BADGES em: https://github.com/Ileriayo/markdown-badges#badges?
+
+<!--Canva:-->
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
+<!--Figma:-->
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+<!--Angular.js:-->
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-
+<!--Bootstrap:->
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+<!--Flask:-->
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ## IDEs/Editors:
-
+<!--Insomnia:-->
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<!--NodeJS:-->
+*![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<!--React:-->
+*![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<!--GoLand:-->
+*![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
+<!--Intellij IDEA:-->
+*![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
@@ -136,9 +148,11 @@ GET https://YOUR-DEPLOY/api/badge?style=${style}&color=${color}&label=${label}
 ## WakaTime:
 
 <!-- MarkDown -->
+### WakaTime do MarkDown:
 [![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=social)](https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f)
 
 <!-- HTML: -->
+### WakaTime do HTML:
 <a href="https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f"><img src="https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg" alt="Total time coded since Dec 1 2023" /></a>
 
 <!--
