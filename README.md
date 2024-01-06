@@ -61,6 +61,9 @@ GET https://YOUR-DEPLOY/api/badge?style=${style}&color=${color}&label=${label}
 <!--Flask:-->
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
+# teste 3
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)] | [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)] | [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)]
+
 # rever
 ### BADGES em: https://github.com/Ileriayo/markdown-badges#badges  COM LINKS CLICAVEIS
 <div align="center"><h4>teste centralizado</h4></div>
