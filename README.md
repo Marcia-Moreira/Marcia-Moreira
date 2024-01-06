@@ -63,13 +63,12 @@ GET https://YOUR-DEPLOY/api/badge?style=${style}&color=${color}&label=${label}
 
 # rever
 ### BADGES em: https://github.com/Ileriayo/markdown-badges#badges  COM LINKS CLICAVEIS
-<p align="center">
+<div align="center"><h4>teste centralizado</h4></div>
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)](https://angularjs.org/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-</p>
 
 # rever
 
