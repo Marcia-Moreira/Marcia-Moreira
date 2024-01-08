@@ -13,6 +13,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 # Indicadores:
 <div>
+    <div style="display: inline_block" align="center"><br>
     <a href="https://github.com/Marcia-Moreira">
     <!-- Stats Tema = Drácula -->
     <img height="189em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -31,8 +32,7 @@
 <!-- Site para baixar o SVG dos Icons das linguagens que você queira -->
 <!-- https://devicon.dev/ -->
 ### Linguagens:
-<>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
     <img align="center" alt="MM-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="MM-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
     <img align="center" alt="MM-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
@@ -42,20 +42,21 @@
     <img align="center" alt="MM-MarkDounw" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
 </div>
 
-    <!-- <img align="center" alt="MM-xyz" height="30" width="40" src=""> -->
-    <!-- <img align="center" alt="MM-xyz" height="30" width="40" src=""> -->
-    <!-- <img align="center" alt="MM-xyz" height="30" width="40" src=""> -->
-    <!--  -->
-    <!-- Estudar Melhor: -->
-    <!-- <img align="center" alt="MM-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> -->
-    <!-- <img align="center" alt="MM-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"> -->
-    <!-- <img align="center" alt="MM-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> -->
-    <!-- <img align="center" alt="MM-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> -->
-    <!-- <img align="center" alt="MM-xyz" height="30" width="40" src=""> -->
+<!--
+<img align="center" alt="MM-xyz" height="30" width="40" src="">
+<img align="center" alt="MM-xyz" height="30" width="40" src="">
+<img align="center" alt="MM-xyz" height="30" width="40" src="">
+Estudar Melhor:
+<img align="center" alt="MM-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+<img align="center" alt="MM-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+<img align="center" alt="MM-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img align="center" alt="MM-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+<img align="center" alt="MM-xyz" height="30" width="40" src="">
+-->
 
 ## 
 ### Banco de Dados:
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
     <img align="center" alt="MM-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="MM-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
     <img align="center" alt="MM-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
@@ -64,7 +65,7 @@
 
 ##
 ### Versionadores:
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
     <img align="center" alt="MM-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
     <img align="center" alt="MM-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
      <!-- <img align="center" alt="MM-GitHubPage" height="30" width="40" src=""> -->
@@ -73,7 +74,7 @@
 
 ##
 ### FrameWork / IDE's / Ferramentas Diversas:
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
     <img align="center" alt="MM-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="MM-DJango" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
     <img align="center" alt="MM-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
@@ -87,11 +88,11 @@
 
 <!-- Tracinho -->
 ##
-
+# Contatos e Redes Sociais:
 <!--* Ícons de Redes Sociais: -->
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!-- https://shields.io/ -->
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
     <!-- WakaTime -->
     <!-- https://wakatime.com/@Marcia_Moreira -->
     <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=social)(https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f&theme=moltack)" target="_blank"></a>
@@ -117,6 +118,10 @@
 <!-- ![Snake animation](https://github.com/marcia-moreira/marcia_moreira/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
+
+
+<!-- Links sobre Cobrinha: -->
+<!-- https://www.google.com/search?q=como+executar+fluxo+de+trabalho+no+github&sca_esv=596594266&rlz=1C1FCXM_pt-PTBR1062BR1062&tbm=vid&sxsrf=AM9HkKl7MDhq7__sW3rRdAshHBHU1aSajQ:1704733925808&source=lnms&sa=X&ved=2ahUKEwjou9DgpM6DAxVwr5UCHU1XCgkQ_AUoAXoECAEQAw&biw=1280&bih=551&dpr=1.5#fpstate=ive&vld=cid:e00db642,vid:_sLbYPiYl58,st:0 -->
 
 <div>
 <p>Teste da Cobrinha:</p>
