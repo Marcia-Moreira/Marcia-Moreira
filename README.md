@@ -2,10 +2,9 @@
 <!-- Link:  -->
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance -->
 <div style="display: inline_block" align="center"><br>
-    <h2 align="center">Olá, Eu sou a :m:arcia :m:oreira </h2>
-    <p>- 👨‍💻 Hoje trabalho com Desenvolvimento Web FullStack</p>
-    <p>- 🌱 Estou aprofundando meus conhecimentos em  <h4>Python e JavaScript<h4></p>
-    <p>- 😊 Pronomes: ela/dela</p>
+    <h2 align="center">Olá! Eu sou a Marcia Moreira, seja bem vindo ao meu perfil! </h2>
+    <p>- 👨‍💻 Trabalho com Desenvolvimento Web FullStack</p>
+    <p>- 🌱 Estou aprofundando meus conhecimentos em  <strong>Python e JavaScript<strong></p>
 </div>
 <!--* Imagens de Quadro de Contadores e Temas -->
 <!-- Mais Modelos de Temas -->
@@ -154,6 +153,7 @@ Estudar Melhor:
 <!-- Fazer uma Div de Links dos Meus Vídeos no Youtube? Tipo de Pit's de Apresentação? -->
 
 <!-- Não ta funcionando -->
+
 ##
 <!--================================================================================================================================================================-->
 <!--COMENTADO-->
