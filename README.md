@@ -1,3 +1,125 @@
+<!-- Video Youtube -->
+<!-- Link:  -->
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance -->
+
+## Olá! Eu sou a Marcia Moreira,
+
+- 👨‍💻 Hoje trabalho com Desenvolvimento Web FullStack
+- 🌱 Estou aprofundando meus conhecimentos em  **Python e JavaScript**
+- 😊 Pronomes: ela/dela
+
+<!--* Imagens de Quadro de Contadores e Temas -->
+<!-- Mais Modelos de Temas -->
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+<div>
+    <a href="https://github.com/Marcia-Moreira">
+    <!-- Stats Tema = Drácula -->
+    <img height="189em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <!-- Stats Tema = moltack não estava funcionando -->
+    <img height="189em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+    <!-- Stats Tema = Está Funcionando -->
+    <img height="189em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&theme=moltack&show_icons=true)"/>
+    <!-- Langs Tema -->
+    <img height="189em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&layout=compact&langs_count=16&theme=dracula"/>
+    <!-- WakaTime -->
+    <!-- https://wakatime.com/@Marcia_Moreira -->
+    <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira)](https://github.com/marcia-moreira/github-readme-stats)" target="_blank"></a>
+</div>
+
+
+<!--* Icons de Linguagens e Tecnologias: -->
+<!-- Site para baixar o SVG dos Icons das linguagens que você queira -->
+<!-- https://devicon.dev/ -->
+<div>
+<div style="display: inline_block"><br>
+    <img align="center" alt="MM-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="MM-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+    <img align="center" alt="MM-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+    <img align="center" alt="MM-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+    <img align="center" alt="MM-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
+    <img align="center" alt="MM-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg">
+    <img align="center" alt="MM-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="MM-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+    <img align="center" alt="MM-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+    <img align="center" alt="MM-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
+    <img align="center" alt="MM-DJango" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
+    <img align="center" alt="MM-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+    <img align="center" alt="MM-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
+    <img align="center" alt="MM-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+    <img align="center" alt="MM-MarkDounw" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+    <img align="center" alt="MM-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="MM-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
+    <img align="center" alt="MM-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+    <img align="center" alt="MM-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+    <img align="center" alt="MM-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+    <img align="center" alt="MM-GitHubPage" height="30" width="40" src="">
+    <img align="center" alt="MM-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
+    <img align="center" alt="MM-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
+    <img align="center" alt="MM-xyz" height="30" width="40" src="">
+    <img align="center" alt="MM-xyz" height="30" width="40" src="">
+    <img align="center" alt="MM-xyz" height="30" width="40" src="">
+    <!-- Estudar Melhor: -->
+    <img align="center" alt="MM-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+    <img align="center" alt="MM-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+    <img align="center" alt="MM-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    <img align="center" alt="MM-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <!-- <img align="center" alt="MM-xyz" height="30" width="40" src=""> -->
+</div>
+
+<!-- Tracinho -->
+##
+
+<!--* Ícons de Redes Sociais: -->
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+<!-- https://shields.io/ -->
+<div>
+    <!-- WakaTime -->
+    <!-- https://wakatime.com/@Marcia_Moreira -->
+    <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=social)(https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f)" target="_blank"></a>
+    <!-- [![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=social)](https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f) -->
+    <!-- Portifólio Pessoal -->
+    <a href="https://www..." alt="Minha_Pagina" target="_blank"><img src=" " target="_blank"></a>
+    <!-- Linkedin -->
+    <a href="https://www.linkedin.com/in/marciamoreiramm" target="_blank"><img src="" target="_blank"></a>
+    <!-- Repositório GitHub -->
+    <a href="https://github.com/Marcia-Moreira?tab=repositories" alt="Portifolio_GitHub" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+    <!-- WhatsApp -->
+    <a href="https://wa.me/5511977219430" alt="Meu_WhatsApp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+    <!-- Email -->
+    <a href="mailto:mm.no.linkedin@gmail.com" alt="Gmail" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <!-- Discord -->
+    <a href="https://www..." alt="Discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <!-- Slack -->
+    <a href="https://escola-koru.slack.com/team/U05RF5CRKK4" alt="Slack" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
+    <!-- <a href="https://www..." alt="" target="_blank"><img src="" target="_blank"></a> -->
+
+<!--* Snake Animation: -->
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
+![Snake animation](https://github.com/marcia-moreira/marcia_moreira/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<div>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+<!-- Fazer uma Div de Links dos Meus Vídeos no Youtube? Tipo de Pit's de Apresentação? -->
+
+<!-- Não ta funcionando -->
+
+
+
+##
+<!--================================================================================================================================================================-->
+<!--COMENTADO-->
+<!--
 <h2 align="center">Olá, Eu sou a :m:arcia :m:oreira </h2>
 
 <!-- Adiciona um Quadro de Status: &layout -->
@@ -85,7 +207,9 @@ GET https://YOUR-DEPLOY/api/badge?style=${style}&color=${color}&label=${label}
 <!-- HTML: -->
 ### WakaTime do HTML:
 <a href="https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f"><img src="https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg" alt="Total time coded since Dec 1 2023" /></a>
+-->
 
+<!--COMENTADO-->
 <!--
 Use ?style=para personalizar a aparência do seu crachá.
 Os estilos suportados são default, plastic, flat, flat-square, for-the-badgee social.
@@ -100,7 +224,7 @@ Os estilos suportados são default, plastic, flat, flat-square, for-the-badgee s
 <!-- -->
 <!-- -->
 
-
+<!--COMENTADO-->
 <!--
 <h1 align="center">Oi 👋, Eu sou a Marcia Moreira</h1>
 <h3 align="center">Curiosa e atraída por Desenvolvimento Web FullStack</h3>
@@ -131,7 +255,7 @@ Os estilos suportados são default, plastic, flat, flat-square, for-the-badgee s
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com /" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" largura ="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https ://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href= "https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/ css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </ a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask- icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer "> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </ a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/ en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons /nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target=" _blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" altura ="40"/> </a> </p>
 
 -->
-
+<!--COMENTADO-->
 <!--
 ### Hi there 👋
 
