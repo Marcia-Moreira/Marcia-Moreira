@@ -11,28 +11,31 @@
 <!--* Imagens de Quadro de Contadores e Temas -->
 <!-- Mais Modelos de Temas -->
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-# Indicadores:
-<div>
-    <div style="display: inline_block" align="center"><br>
+<!-- ### Indicadores: -->
+<div style="display: inline_block" align="center"><br>
+    <h3>Indicadores:</h3>
     <a href="https://github.com/Marcia-Moreira">
     <!-- Stats Tema = Drácula -->
-    <img height="189em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
     <!-- Stats Tema = moltack não estava funcionando -->
     <img height="189em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
     <!-- Stats Tema = Está Funcionando -->
-    <img height="189em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&theme=moltack&show_icons=true)"/>
+    <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&theme=moltack&show_icons=true)"/> -->
     <!-- Langs Tema Moltack-->
-    <img height="189em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&layout=compact&langs_count=16&theme=moltack"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&layout=compact&langs_count=16&theme=moltack"/>
     <!-- WakaTime -->
     <!-- https://wakatime.com/@Marcia_Moreira -->
     <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira)](https://github.com/marcia-moreira/github-readme-stats)" target="_blank"></a>
+    <!-- WAKATIME - Extensão instalada no VSCode para monitoramento de tempo de codigo -->
+    <img height="150em" alt="Harlok's WakaTime stats" src="(https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&background=#23272d&border_color=#363a3f&text_color=#e8eaf6&title_color=#ffffff)](https://github.com/marcia-moreira/github-readme-stats)" target="_blank"/>
 </div>
 
 <!--* Icons de Linguagens e Tecnologias: -->
 <!-- Site para baixar o SVG dos Icons das linguagens que você queira -->
 <!-- https://devicon.dev/ -->
-### Linguagens:
+<!-- ### Linguagens: -->
 <div style="display: inline_block" align="center"><br>
+    <h3>Linguagens:</h3>
     <img align="center" alt="MM-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="MM-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
     <img align="center" alt="MM-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
@@ -55,8 +58,9 @@ Estudar Melhor:
 -->
 
 ## 
-### Banco de Dados:
+<!-- ### Banco de Dados: -->
 <div style="display: inline_block" align="center"><br>
+    <h3>Banco de Dados:</h3>
     <img align="center" alt="MM-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="MM-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
     <img align="center" alt="MM-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
@@ -64,8 +68,9 @@ Estudar Melhor:
 </div>
 
 ##
-### Versionadores:
+<!-- ### Versionadores: -->
 <div style="display: inline_block" align="center"><br>
+    <h3>Versionadores:</h3>
     <img align="center" alt="MM-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
     <img align="center" alt="MM-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
      <!-- <img align="center" alt="MM-GitHubPage" height="30" width="40" src=""> -->
@@ -73,8 +78,9 @@ Estudar Melhor:
 </div>
 
 ##
-### FrameWork / IDE's / Ferramentas Diversas:
+<!-- ### FrameWork / IDE's / Ferramentas Diversas: -->
 <div style="display: inline_block" align="center"><br>
+    <h3>FrameWork / IDE's / Ferramentas Diversas:</h3>
     <img align="center" alt="MM-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="MM-DJango" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
     <img align="center" alt="MM-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
@@ -88,11 +94,12 @@ Estudar Melhor:
 
 <!-- Tracinho -->
 ##
-# Contatos e Redes Sociais:
+<!-- ### Contatos e Redes Sociais: -->
 <!--* Ícons de Redes Sociais: -->
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!-- https://shields.io/ -->
 <div style="display: inline_block" align="center"><br>
+    <h3>Contatos e Redes Sociais:</h3>
     <!-- WakaTime -->
     <!-- https://wakatime.com/@Marcia_Moreira -->
     <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=social)(https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f&theme=moltack)" target="_blank"></a>
@@ -135,6 +142,7 @@ Estudar Melhor:
 <!-- Fazer uma Div de Links dos Meus Vídeos no Youtube? Tipo de Pit's de Apresentação? -->
 
 <!-- Não ta funcionando -->
+
 ##
 <!--================================================================================================================================================================-->
 <!--COMENTADO-->
