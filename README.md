@@ -1,13 +1,12 @@
 <!-- Video Youtube -->
 <!-- Link:  -->
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance -->
-
-## Olá! Eu sou a Marcia Moreira,
-
-- 👨‍💻 Hoje trabalho com Desenvolvimento Web FullStack
-- 🌱 Estou aprofundando meus conhecimentos em  **Python e JavaScript**
-- 😊 Pronomes: ela/dela
-
+<div style="display: inline_block" align="center"><br>
+    <h2 align="center">Olá, Eu sou a :m:arcia :m:oreira </h2>
+    <p>- 👨‍💻 Hoje trabalho com Desenvolvimento Web FullStack</p>
+    <p>- 🌱 Estou aprofundando meus conhecimentos em  <h4>Python e JavaScript<h4></p>
+    <p>- 😊 Pronomes: ela/dela</p>
+</div>
 <!--* Imagens de Quadro de Contadores e Temas -->
 <!-- Mais Modelos de Temas -->
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
