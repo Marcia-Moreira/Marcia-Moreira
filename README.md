@@ -1,3 +1,7 @@
+<!-- VIA OFICIAL NO GITHUB 08-01-2023 21H -->
+<!-- Arquivo VSCode - Readme_MM_002.md -->
+<!-- Pasta - MM_PROJETO-README_PADRAO_NO_GITHUB -->
+
 <!-- Video Youtube -->
 <!-- Link:  -->
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance -->
@@ -131,19 +135,19 @@ Estudar Melhor:
     <h3>Contatos e Redes Sociais:</h3>
     <!-- [![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=social)](https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f) -->
     <!-- Portifólio Pessoal -->
-    <a href="https://marcia-moreira.github.io/Challange_01-WoMakersCode-Intro_Star_Wars_MM/" alt="Minha_Pagina" target="_blank"><img src=" " target="_blank"></a> &nbsp;&nbsp;
+    <a href="https://marcia-moreira.github.io/Challange_01-WoMakersCode-Intro_Star_Wars_MM/" alt="Minha_Pagina" target="_blank"><img src=" " target="_blank"></a> &nbsp;
     <!-- Linkedin -->
-    <a href="https://www.linkedin.com/in/marciamoreiramm" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/marciamoreiramm/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
     <!-- Repositório GitHub -->
-    <a href="https://github.com/Marcia-Moreira?tab=repositories" alt="Portifolio_GitHub" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> &nbsp;&nbsp;
+    <a href="https://github.com/Marcia-Moreira?tab=repositories" alt="Portifolio_GitHub" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> &nbsp;
     <!-- WhatsApp -->
-    <a href="https://wa.me/5511977219430" alt="Meu_WhatsApp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> &nbsp;&nbsp;
+    <a href="https://wa.me/5511977219430" alt="Meu_WhatsApp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> &nbsp;
     <!-- Email -->
-    <a href="mailto:mm.no.linkedin@gmail.com" alt="Gmail" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;&nbsp;
+    <a href="mailto:mm.no.linkedin@gmail.com" alt="Gmail" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
     <!-- Discord -->
-    <a href="https://www..." alt="Discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> &nbsp;&nbsp;
+    <a href="https://www..." alt="Discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> &nbsp;
     <!-- Slack -->
-    <a href="https://escola-koru.slack.com/team/U05RF5CRKK4" alt="Slack" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> &nbsp;&nbsp;
+    <a href="https://escola-koru.slack.com/team/U05RF5CRKK4" alt="Slack" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> &nbsp;
     <!-- Youtube -->
     <a href="https://www..." alt="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <!-- <a href="https://www..." alt="" target="_blank"><img src="" target="_blank"></a> -->
@@ -155,7 +159,6 @@ Estudar Melhor:
 <!-- ![Snake animation](https://github.com/marcia-moreira/marcia_moreira/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
-
 
 <!-- Links sobre Cobrinha: -->
 <!-- https://www.google.com/search?q=como+executar+fluxo+de+trabalho+no+github&sca_esv=596594266&rlz=1C1FCXM_pt-PTBR1062BR1062&tbm=vid&sxsrf=AM9HkKl7MDhq7__sW3rRdAshHBHU1aSajQ:1704733925808&source=lnms&sa=X&ved=2ahUKEwjou9DgpM6DAxVwr5UCHU1XCgkQ_AUoAXoECAEQAw&biw=1280&bih=551&dpr=1.5#fpstate=ive&vld=cid:e00db642,vid:_sLbYPiYl58,st:0 -->
@@ -173,6 +176,7 @@ Estudar Melhor:
 <!-- Fazer uma Div de Links dos Meus Vídeos no Youtube? Tipo de Pit's de Apresentação? -->
 
 <!-- Não ta funcionando -->
+
 
 ##
 <!--================================================================================================================================================================-->
