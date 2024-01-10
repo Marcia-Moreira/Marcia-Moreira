@@ -1,20 +1,25 @@
-<!-- VIA OFICIAL NO GITHUB 08-01-2023 21H -->
+<!-- VIA OFICIAL NO GITHUB 10-01-2023 17H -->
 <!-- Arquivo VSCode - Readme_MM_002.md -->
 <!-- Pasta - MM_PROJETO-README_PADRAO_NO_GITHUB -->
-
 <!-- Video Youtube -->
 <!-- Link:  -->
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance -->
-<div style="display: inline_block" align="center"><br>
-    <h2 align="center">Olá! Eu sou a Marcia Moreira, seja bem vindo ao meu perfil! </h2>
-    <p>- 👨‍💻 Trabalho com Desenvolvimento Web Full Stack</p>
-    <p>- 🌱 Estou aprofundando meus conhecimentos em  <strong>Python e JavaScript<strong></p>
+<div style="display: inline_block" align="center" font-size="30">
+    <!-- <h2 align="center">Olá! Eu sou a Marcia Moreira, seja bem vindo ao meu perfil! </h2> -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DEA585&vCenter=true&random=false&width=435&lines=Ol%C3%A1+👋🏽!+Eu+sou+a+Marcia+Moreira%2C;seja+bem+vindo+ao+meu+perfil+👩🏽‍💻!" alt="Typing SVG Meu Letreiro"/>
+</div>
+
+##
+
+<div style="display: inline_block" align="center">
+    <p> 👩🏽‍💻 Trabalho com Desenvolvimento Web Full Stack</p>
+    <p> Estou aprofundando meus 🌱 conhecimentos em  <strong>Python e JavaScript<strong></p>
 </div>
 <!--* Imagens de Quadro de Contadores e Temas -->
 <!-- Mais Modelos de Temas -->
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <!-- ### Indicadores: -->
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center">
     <h3>Indicadores:</h3>
     <a href="https://github.com/Marcia-Moreira">
     <!-- Stats Tema = Drácula -->
@@ -26,16 +31,16 @@
     <!-- Langs Tema Moltack-->
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&layout=compact&langs_count=16&theme=moltack"/>
 </div>
-
-<div style="display: inline_block" align="center"><br>
-    <h3> Status de Contabilização de desempenho em Código: </h3>
+<div style="display: inline_block" align="center">
+    <h3> - DESEMPENHO CODANDO - </h3>
     <h5> (Contabilizado desde 01/12/2023) </h5>
     <a href="https://github.com/Marcia-Moreira">
     <!-- WakaTime Badges: -->
     <!-- https://wakatime.com/@Marcia_Moreira -->
     <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=social)(https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f&theme=moltack)" target="_blank"></a>
 </div>
-<div style="display: inline_block" align="center"><br>
+
+<div style="display: inline_block" align="center">
     <a href="https://github.com/Marcia-Moreira">
     <!-- WakaTime Stats: -->
     <!-- https://wakatime.com/@Marcia_Moreira -->
@@ -49,7 +54,7 @@
 <!-- Site para baixar o SVG dos Icons das linguagens que você queira -->
 <!-- https://devicon.dev/ -->
 <!-- ### Linguagens: -->
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center">
     <h3>Linguagens:</h3>
     <img align="center" alt="MM-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;
@@ -65,7 +70,6 @@
     &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-MarkDounw" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
 </div>
-
 <!--
 <img align="center" alt="MM-xyz" height="30" width="40" src="">
 <img align="center" alt="MM-xyz" height="30" width="40" src="">
@@ -75,12 +79,12 @@ Estudar Melhor:
 <img align="center" alt="MM-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 <img align="center" alt="MM-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img align="center" alt="MM-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-<img align="center" alt="MM-xyz" height="30" width="40" src="">
--->
+<img align="center" alt="MM-xyz" height="30" width="40" src="">-->
 
-## 
+##
+
 <!-- ### Banco de Dados: -->
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center">
     <h3>Banco de Dados:</h3>
     <img align="center" alt="MM-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
      &nbsp;&nbsp;&nbsp;
@@ -92,8 +96,9 @@ Estudar Melhor:
 </div>
 
 ##
+
 <!-- ### Versionadores: -->
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center">
     <h3>Versionadores:</h3>
     <img align="center" alt="MM-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
      &nbsp;&nbsp;&nbsp;
@@ -104,8 +109,9 @@ Estudar Melhor:
 </div>
 
 ##
+
 <!-- ### FrameWork / IDE's / Ferramentas Diversas: -->
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center">
     <h3>FrameWork / IDE's / Ferramentas Diversas:</h3>
     <img align="center" alt="MM-NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
      &nbsp;&nbsp;&nbsp;
@@ -124,18 +130,19 @@ Estudar Melhor:
     <img align="center" alt="MM-Trello" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
 </div>
 
-<!-- Tracinho -->
 ##
+
+<!-- Tracinho ## --> 
 <!-- ### Contatos e Redes Sociais: -->
 <!--* Ícons de Redes Sociais: -->
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!-- https://shields.io/ -->
 <!-- <div style="display: inline_block" align="center" border-radium=""><br> -->
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center">
     <h3>Contatos e Redes Sociais:</h3>
     <!-- [![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=social)](https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f) -->
-    <!-- Portifólio Pessoal -->
-    <a href="https://marcia-moreira.github.io/Challange_01-WoMakersCode-Intro_Star_Wars_MM/" alt="Minha_Pagina" target="_blank"><img src=" " target="_blank"></a> &nbsp;
+    <!-- Portifólio Pessoal - DESATIVEI POIS Não Fiz uma Badge Adequada-->
+    <a href="https://marcia-moreira.github.io/Challange_01-WoMakersCode-Intro_Star_Wars_MM/" alt="Minha_Pagina" target="_blank"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> &nbsp;
     <!-- Linkedin -->
     <a href="https://www.linkedin.com/in/marciamoreiramm/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
     <!-- Repositório GitHub -->
@@ -153,30 +160,31 @@ Estudar Melhor:
     <!-- <a href="https://www..." alt="" target="_blank"><img src="" target="_blank"></a> -->
     &nbsp;
     &nbsp;
-
-<!--* Snake Animation: -->
-<!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
-<!-- ![Snake animation](https://github.com/marcia-moreira/marcia_moreira/blob/output/github-contribution-grid-snake.svg) -->
-
 </div>
+
+##
 
 <!-- Links sobre Cobrinha: -->
 <!-- https://www.google.com/search?q=como+executar+fluxo+de+trabalho+no+github&sca_esv=596594266&rlz=1C1FCXM_pt-PTBR1062BR1062&tbm=vid&sxsrf=AM9HkKl7MDhq7__sW3rRdAshHBHU1aSajQ:1704733925808&source=lnms&sa=X&ved=2ahUKEwjou9DgpM6DAxVwr5UCHU1XCgkQ_AUoAXoECAEQAw&biw=1280&bih=551&dpr=1.5#fpstate=ive&vld=cid:e00db642,vid:_sLbYPiYl58,st:0 -->
 
-<div>
-&nbsp;
-<p>Teste da Cobrinha:</p>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
+<!--Não Funcionou!!!-->
+<!--* Snake Animation: -->
+<!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![Snake animation](https://github.com/marcia-moreira/marcia_moreira/blob/output/github-contribution-grid-snake.svg) -->
+
+<!--Não Funcionou!!!-->
+<!-- <div> -->
+<!-- &nbsp; -->
+<!-- <p>Teste da Cobrinha:</p> -->
+<!-- <picture> -->
+<!--     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg"> -->
+<!--     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg"> -->
+<!--     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg"> -->
+<!-- </picture> -->
+<!-- </div> -->
 
 <!-- Fazer uma Div de Links dos Meus Vídeos no Youtube? Tipo de Pit's de Apresentação? -->
 
 <!-- Não ta funcionando -->
 
-
-##
 <!--================================================================================================================================================================-->
