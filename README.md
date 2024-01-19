@@ -14,13 +14,15 @@
 <div style="display: inline_block" align="center">
     <p> 👩🏽‍💻 Trabalho com Desenvolvimento Web Full Stack</p>
     <p> Estou aprofundando meus 🌱 conhecimentos em  <strong>Python e JavaScript<strong></p>
+    <h6>...me chame no whatsApp!</h6>
+    <a href="https://wa.me/5511977219430" alt="Meu_WhatsApp" target="_blank"><img height="25" width="70" border-radius="10" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> &nbsp;
 </div>
 <!--* Imagens de Quadro de Contadores e Temas -->
 <!-- Mais Modelos de Temas -->
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <!-- ### Indicadores: -->
 <div style="display: inline_block" align="center">
-    <h3>Indicadores:</h3>
+    <h3>Indicadores de Performance:</h3>
     <a href="https://github.com/Marcia-Moreira">
     <!-- Stats Tema = Drácula -->
     <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
