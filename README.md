@@ -139,7 +139,7 @@ Estudar Melhor:
     <img align="center" alt="MM-BootStrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
      &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-Flask" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
-     &nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;          
     <img align="center" alt="MM-npm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
      &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-Slack" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
@@ -147,6 +147,8 @@ Estudar Melhor:
     <img align="center" alt="MM-Canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
      &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-Trello" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img align="center" alt="MM-Trello" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 </div>
 
 ##
@@ -181,7 +183,6 @@ Estudar Melhor:
 </div>
 
 ##
-
 
 <!--
 _generated with [Platane/snk](https://github.com/Platane/snk)_
