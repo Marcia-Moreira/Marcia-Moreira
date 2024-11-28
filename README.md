@@ -19,7 +19,7 @@
 </div>
 <!-- ### Indicadores: -->
 <div style="display: inline_block" align="center">
-    <h3>Indicadores de Performance:</h3>
+    <h3> Indicadores de Performance:</h3>
     <a href="https://github.com/Marcia-Moreira">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
     <!-- Stats Tema = Está Funcionando -->
@@ -44,7 +44,7 @@ CÓDIGO DA COBRINHA - SNAKE (26-01-2024)
 </div>
 
 <div style="display: inline_block" align="center">
-    <h3> - DESEMPENHO CODANDO - </h3>
+    <h3> - DESEMPENHO: Tempo Codando / Pesquisando / Estudando - </h3>
     <h5> (Contabilizado desde 01/12/2023) </h5>
     <a href="https://github.com/Marcia-Moreira">
     <!-- WakaTime Badges: -->
@@ -148,7 +148,7 @@ Estudar Melhor:
      &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-Trello" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="MM-Trello" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+    <img align="center" alt="MM-Postman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 </div>
 
 ##
