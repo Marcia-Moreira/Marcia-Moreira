@@ -116,7 +116,7 @@ Estudar Melhor:
 ##
 
 <!-- ### Versionadores: -->
-<div style="display: inline_block; background-color: #2d2d2d; padding: 15px; border-radius: 10px;" align="center">
+<div style="display: inline_block; background-color: #f0f0f0; padding: 15px; border-radius: 10px;" align="center">
     <h3>Versionadores:</h3>
     <img align="center" alt="MM-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
      &nbsp;&nbsp;&nbsp;
