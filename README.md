@@ -72,7 +72,7 @@ CÓDIGO DA COBRINHA - SNAKE (26-01-2024)
 <!-- Site para baixar o SVG dos Icons das linguagens que você queira -->
 <!-- https://devicon.dev/ -->
 <!-- ### Linguagens: -->
-<div style="display: inline_block" align="center">
+<div style="display: inline_block; background-color: #2d2d2d; padding: 15px; border-radius: 10px;" align="center">
     <h3>Linguagens:</h3>
     <img align="center" alt="MM-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;
@@ -102,7 +102,7 @@ Estudar Melhor:
 ##
 
 <!-- ### Banco de Dados: -->
-<div style="display: inline_block" align="center">
+<div style="display: inline_block; background-color: #2d2d2d; padding: 15px; border-radius: 10px;" align="center">
     <h3>Banco de Dados:</h3>
     <img align="center" alt="MM-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
      &nbsp;&nbsp;&nbsp;
@@ -116,7 +116,7 @@ Estudar Melhor:
 ##
 
 <!-- ### Versionadores: -->
-<div style="display: inline_block" align="center">
+<div style="display: inline_block; background-color: #2d2d2d; padding: 15px; border-radius: 10px;" align="center">
     <h3>Versionadores:</h3>
     <img align="center" alt="MM-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
      &nbsp;&nbsp;&nbsp;
@@ -130,7 +130,7 @@ Estudar Melhor:
 ##
 
 <!-- ### FrameWork / IDE's / Ferramentas Diversas: -->
-<div style="display: inline_block" align="center">
+<div style="display: inline_block; background-color: #2d2d2d; padding: 15px; border-radius: 10px;" align="center">
     <h3>FrameWork / IDE's / Ferramentas Diversas:</h3>
     <img align="center" alt="MM-NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
      &nbsp;&nbsp;&nbsp;
