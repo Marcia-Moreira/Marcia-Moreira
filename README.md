@@ -104,6 +104,7 @@ Estudar Melhor:
 <!-- ### Banco de Dados: -->
 <div style="display: inline_block; background-color: #2d2d2d; padding: 15px; border-radius: 10px;" align="center">
     <h3>Banco de Dados:</h3>
+    <table bgcolor="#2d2d2d" align="center"><tr><td style="padding: 10px">
     <img align="center" alt="MM-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
      &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
@@ -111,17 +112,26 @@ Estudar Melhor:
     <img align="center" alt="MM-SQLServer" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
      &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-SQLite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
+    </td></tr></table>
 </div>
 
 ##
-
+### Versionadores TESTE COR:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white)
 <!-- ### Versionadores: -->
-<div style="display: inline_block; background-color: #f0f0f0; padding: 15px; border-radius: 10px;" align="center">
+<div style="display: inline_block" align="center">
     <h3>Versionadores:</h3>
     <img align="center" alt="MM-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
      &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
      &nbsp;&nbsp;&nbsp;
+<!--     <img align="center" alt="MM-GitHub" height="50" width="50" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> -->
+    &nbsp;&nbsp;&nbsp;
      <!-- <img align="center" alt="MM-GitHubPage" height="30" width="40" src=""> -->
     <img align="center" alt="MM-GitLab" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
     <a href="https://marcia-moreira.github.io/Challange_01-WoMakersCode-Intro_Star_Wars_MM/" alt="Minha_Pagina" target="_blank"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> &nbsp;
