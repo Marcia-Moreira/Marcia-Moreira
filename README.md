@@ -72,7 +72,7 @@ CÓDIGO DA COBRINHA - SNAKE (26-01-2024)
 <!-- Site para baixar o SVG dos Icons das linguagens que você queira -->
 <!-- https://devicon.dev/ -->
 <!-- ### Linguagens: -->
-<div style="display: inline_block; background-color: #2d2d2d; padding: 15px; border-radius: 10px;" align="center">
+<div style="display: inline_block;" align="center">
     <h3>Linguagens:</h3>
     <img align="center" alt="MM-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;
@@ -102,9 +102,8 @@ Estudar Melhor:
 ##
 
 <!-- ### Banco de Dados: -->
-<div style="display: inline_block; background-color: #2d2d2d; padding: 15px; border-radius: 10px;" align="center">
+<div style="display: inline_block;" align="center">
     <h3>Banco de Dados:</h3>
-    <table bgcolor="#2d2d2d" align="center"><tr><td style="padding: 10px">
     <img align="center" alt="MM-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
      &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
@@ -112,57 +111,40 @@ Estudar Melhor:
     <img align="center" alt="MM-SQLServer" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
      &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-SQLite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
-    </td></tr></table>
 </div>
 
 ##
-### Versionadores TESTE COR:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white)
+
 <!-- ### Versionadores: -->
-<div style="display: inline_block" align="center">
-    <h3>Versionadores:</h3>
-    <img align="center" alt="MM-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="MM-GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-     &nbsp;&nbsp;&nbsp;
-<!--     <img align="center" alt="MM-GitHub" height="50" width="50" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> -->
-    &nbsp;&nbsp;&nbsp;
-     <!-- <img align="center" alt="MM-GitHubPage" height="30" width="40" src=""> -->
-    <img align="center" alt="MM-GitLab" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
-    <a href="https://marcia-moreira.github.io/Challange_01-WoMakersCode-Intro_Star_Wars_MM/" alt="Minha_Pagina" target="_blank"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> &nbsp;
+<div align="center">
+<h3>Versionadores:</h3>
+    
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white)](https://marcia-moreira.github.io/Challange_01-WoMakersCode-Intro_Star_Wars_MM/)
+
 </div>
 
 ##
 
 <!-- ### FrameWork / IDE's / Ferramentas Diversas: -->
-<div style="display: inline_block; background-color: #2d2d2d; padding: 15px; border-radius: 10px;" align="center">
-    <h3>FrameWork / IDE's / Ferramentas Diversas:</h3>
-    <img align="center" alt="MM-NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="MM-DJango" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
-     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="MM-BootStrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
-     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="MM-Flask" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
-     &nbsp;&nbsp;&nbsp;          
-    <img align="center" alt="MM-npm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="MM-Slack" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
-     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="MM-Canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="MM-Trello" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
-    &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="MM-Postman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<div align="center">
+<h3>FrameWork / IDE's / Ferramentas Diversas:</h3>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+
 </div>
 
 ##
-
 <!-- Tracinho ## --> 
 <!-- ### Contatos e Redes Sociais: -->
 <!--* Ícons de Redes Sociais: -->
