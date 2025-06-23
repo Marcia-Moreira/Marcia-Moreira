@@ -14,7 +14,7 @@
 <!-- SOBRE: -->
 <div style="display: inline_block" align="center">
     <p> 👩🏽‍💻 Trabalho com Desenvolvimento Web Front-End </p>
-    <p> Estou aprofundando meus 🌱 conhecimentos em  <strong> JavaScript e cursando PÓS Graduação em Desenvolvimento Web Full Stack <strong></p>
+    <p> Estou aprofundando meus 🌱 conhecimentos em  <strong> JavaScript <strong> e cursando PÓS Graduação em <strong> Desenvolvimento Web Full Stack <strong></p>
     <h6>...me chame no whatsApp!</h6>
     <a href="https://wa.me/5511977219430" alt="Meu_WhatsApp" target="_blank"><img height="25" width="80" border-radius="10" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> &nbsp;
 </div>
@@ -41,7 +41,7 @@
 <!-- =========================================================================================================================================== -->
 <!-- WAKATIME: -->
 <div style="display: inline_block" align="center">
-    <h3> - Desempenho: Tempo Codando | Pesquisando | Estudando - </h3>
+    <h3> - Tempo Codando | Debugando | Pesquisando - </h3>
     <h5> (Contabilizado desde 01/12/2023) </h5>
     <a href="https://github.com/Marcia-Moreira">
     <!-- WakaTime Badges: -->
@@ -62,12 +62,16 @@
 <div style="display: inline_block" align="center">
     <!-- <h2> - TECNOLOGIAS / SKILLs / STACKs - </h2> -->
     <h2> 🌐 Tecnologias | Skills | Stacks 🌐 </h2>
+    &nbsp;&nbsp;
+    
 </div>
 
 <!-- =========================================================================================================================================== -->
-<!-- ### Linguagens: -->
+<!--  Linguagens: -->
 <div style="display: inline_block;" align="center">
+    &nbsp;
     <h3> - Linguagens de Programação | Marcação | Estilo - </h3>
+    &nbsp;&nbsp;
     <img align="center" alt="MM-Html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
     &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
@@ -89,7 +93,9 @@
 <!-- =========================================================================================================================================== -->
 <!-- ### Banco de Dados: -->
 <div style="display: inline_block;" align="center">
+    &nbsp;
     <h3> - Banco de Dados - </h3>
+     &nbsp;&nbsp;
     <img align="center" alt="MM-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
      &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
@@ -103,6 +109,7 @@
 <!-- =========================================================================================================================================== -->
 <!-- ### Versionadores: -->
 <div align="center">
+<br>
 <h3> - Versionamento | Deploy - </h3>
     
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -115,14 +122,14 @@
 <!-- =========================================================================================================================================== -->
 <!-- ### FrameWork / IDE's / Ferramentas Diversas: -->
 <div align="center">
+<br>
 <h3> - FrameWorks | IDE's | Ferramentas Diversas - </h3>
-
+    
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
@@ -132,7 +139,9 @@
 <!-- =========================================================================================================================================== -->
 <!--  MEUS CONTATOS E REDES SOCIAIS -->
 <div style="display: inline_block" align="center">
+    &nbsp;
     <h3> - Meus Contatos e Redes Sociais - </h3>
+    &nbsp;&nbsp;
     <!-- WakaTime -->
     <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira)](https://github.com/marcia-moreira/github-readme-stats)" target="_blank"></a> &nbsp;
     <!-- My Portifolio | Repositório -->
@@ -155,6 +164,14 @@
 </div>
 
 ##
+
+<div align="center">
+  <br>
+  <p><a href="https://wa.me/5511977219430" style="text-decoration: none; color: inherit;"><strong>M_M-Web</strong> 📞 </a></p>
+  <p>&copy; 2025</p>
+</div>
+
+
 <!-- =========================================================================================================================================== -->
 <!-- LINKS IMPORTANTES: -->
 <!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
@@ -179,6 +196,7 @@
 <!-- <img align="center" alt="MM-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">  -->
 <!-- <img align="center" alt="MM-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">  -->
 <!-- <img align="center" alt="MM-xyz" height="30" width="40" src="">  -->
+<!-- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp; -->
 <!-- <div>
     name: generate-snake-game-from-github-contribution-grid
     uses: Marcia-Moreira/snk@v3.2.0
