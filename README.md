@@ -63,7 +63,7 @@ CÓDIGO DA COBRINHA - SNAKE (26-01-2024)
 ##
 
 <div style="display: inline_block" align="center">
-    <h3> - TECNOLOGIAS - </h3>
+    <h2> - TECNOLOGIAS - </h3>
 </div>
 
 ##
@@ -73,7 +73,11 @@ CÓDIGO DA COBRINHA - SNAKE (26-01-2024)
 <!-- https://devicon.dev/ -->
 <!-- ### Linguagens: -->
 <div style="display: inline_block;" align="center">
-    <h3>Linguagens:</h3>
+    <h3>Linguagens de Programação / Marcação / Estilo: </h3>
+    <img align="center" alt="MM-Html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img align="center" alt="MM-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+    &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-Py" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
@@ -82,11 +86,9 @@ CÓDIGO DA COBRINHA - SNAKE (26-01-2024)
     &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-C#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg">
     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="MM-Html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+    <img align="center" alt="MM-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="MM-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-    &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="MM-MarkDounw" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+    <img align="center" alt="MM-Markdown-Light" height="50" width="50" src="https://raw.githubusercontent.com/github/explore/main/topics/markdown/markdown.png">
 </div>
 <!--
 <img align="center" alt="MM-xyz" height="30" width="40" src="">
@@ -103,7 +105,7 @@ Estudar Melhor:
 
 <!-- ### Banco de Dados: -->
 <div style="display: inline_block;" align="center">
-    <h3>Banco de Dados:</h3>
+    <h3>Banco de Dados: </h3>
     <img align="center" alt="MM-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
      &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
@@ -117,7 +119,7 @@ Estudar Melhor:
 
 <!-- ### Versionadores: -->
 <div align="center">
-<h3>Versionadores:</h3>
+<h3>Versionamento & Deploy: </h3>
     
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -130,7 +132,7 @@ Estudar Melhor:
 
 <!-- ### FrameWork / IDE's / Ferramentas Diversas: -->
 <div align="center">
-<h3>FrameWork / IDE's / Ferramentas Diversas:</h3>
+<h3>FrameWorks / IDE's / Ferramentas Diversas: </h3>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
@@ -152,9 +154,10 @@ Estudar Melhor:
 <!-- https://shields.io/ -->
 <!-- <div style="display: inline_block" align="center" border-radium=""><br> -->
 <div style="display: inline_block" align="center">
-    <h3>Contatos e Redes Sociais:</h3>
+    <h3>Meus Contatos e Redes Sociais: </h3>
     <!-- [![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=social)](https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f) -->
-    <!-- Portifólio Pessoal - DESATIVEI POIS Não Fiz uma Badge Adequada-->
+    <!-- Portifólio Pessoal - Badge Estilizada-->
+    <a href="https://github.com/Marcia-Moreira?tab=repositories"><img src="https://img.shields.io/badge/My%20Portfolio-white?style=for-the-badge&logo=github&logoColor=black" alt="My Portfolio Badge"/></a> &nbsp;
     <!-- Linkedin -->
     <a href="https://www.linkedin.com/in/idmarciamoreira/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
     <!-- Repositório GitHub -->
@@ -168,9 +171,8 @@ Estudar Melhor:
     <!-- Slack -->
     <a href="https://escola-koru.slack.com/team/U05RF5CRKK4" alt="Slack" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> &nbsp;
     <!-- Youtube -->
-    <a href="https://youtu.be/5VNT0j8MyT4" alt="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://youtu.be/5VNT0j8MyT4" alt="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> &nbsp;
     <!-- <a href="https://www..." alt="" target="_blank"><img src="" target="_blank"></a> -->
-    &nbsp;
     &nbsp;
 </div>
 
