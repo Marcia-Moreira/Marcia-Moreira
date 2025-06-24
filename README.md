@@ -62,16 +62,15 @@
 <div style="display: inline_block" align="center">
     <!-- <h2> - TECNOLOGIAS / SKILLs / STACKs - </h2> -->
     <h2> 🌐 Tecnologias | Skills | Stacks 🌐 </h2>
-    &nbsp;&nbsp;
+    &nbsp;
     
 </div>
 
 <!-- =========================================================================================================================================== -->
-<!--  Linguagens: -->
+<!--  LINGUAGENS: -->
 <div style="display: inline_block;" align="center">
-    &nbsp;
     <h3> - Linguagens de Programação | Marcação | Estilo - </h3>
-    &nbsp;&nbsp;
+    &nbsp;
     <img align="center" alt="MM-Html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
     &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
@@ -91,11 +90,10 @@
 
 ##
 <!-- =========================================================================================================================================== -->
-<!-- ### Banco de Dados: -->
+<!-- BANCO DE DADOS: -->
 <div style="display: inline_block;" align="center">
-    &nbsp;
     <h3> - Banco de Dados - </h3>
-     &nbsp;&nbsp;
+     &nbsp;
     <img align="center" alt="MM-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
      &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
@@ -107,9 +105,8 @@
 
 ##
 <!-- =========================================================================================================================================== -->
-<!-- ### Versionadores: -->
+<!-- VERSIONADORES E DEPLOY: -->
 <div align="center">
-<br>
 <h3> - Versionamento | Deploy - </h3>
     
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -120,9 +117,8 @@
 
 ##
 <!-- =========================================================================================================================================== -->
-<!-- ### FrameWork / IDE's / Ferramentas Diversas: -->
+<!--  FrameWork / IDE's / Ferramentas Diversas: -->
 <div align="center">
-<br>
 <h3> - FrameWorks | IDE's | Ferramentas Diversas - </h3>
     
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
@@ -134,6 +130,46 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 </div>
+
+##
+<!-- =========================================================================================================================================== -->
+<!-- PROJETOS E SEUS LINKS  -->
+## 🚀 Projetos em Destaque
+
+Lista dos meus projetos autorais organizados por temas e níveis, seguindo a estrutura `Portfolio_Proj_00X-NomeDoProjeto`.
+
+---
+
+### 🎨 Interfaces e Estilo
+
+1. 🟣 [Portfolio_Proj_001-LoginResponsivo](https://github.com/Marcia-Moreira/Portfolio_Proj_001-LoginResponsivo)  
+   Formulário de login com layout responsivo, feito com HTML5, CSS3 e JavaScript Vanilla.
+
+2. 🎨 [Portfolio_Proj_002-LandingPageBeleza](https://github.com/Marcia-Moreira/Portfolio_Proj_002-LandingPageBeleza)  
+   Página de produto com design atrativo, animações suaves e foco em mobile first.
+
+---
+
+### 📊 Dashboards e Componentes Interativos
+
+3. 📊 [Portfolio_Proj_003-DashboardInterativo](https://github.com/Marcia-Moreira/Portfolio_Proj_003-DashboardInterativo)  
+   Dashboard com gráficos dinâmicos usando Chart.js, dados simulados e filtros visuais.
+
+4. 🧩 [Portfolio_Proj_004-ComponenteTabs](https://github.com/Marcia-Moreira/Portfolio_Proj_004-ComponenteTabs)  
+   Componente reutilizável de abas (tabs), com comportamento animado em JS.
+
+---
+
+### 📱 Experimentos Mobile First
+
+5. 📱 [Portfolio_Proj_005-AppMobileLike](https://github.com/Marcia-Moreira/Portfolio_Proj_005-AppMobileLike)  
+   Interface inspirada em apps móveis com navegação lateral e dark mode.
+
+---
+
+👩🏽‍💻 Veja todos os projetos no meu portfólio online:  
+🔗 [marcia-moreira.github.io/my_portfolio_Marcia_Moreira](https://marcia-moreira.github.io/my_portfolio_Marcia_Moreira/)
+
 
 ##
 <!-- =========================================================================================================================================== -->
