@@ -169,7 +169,13 @@
 </div>
 
 ##
-<!-- =========================================================================================================================================== -->        
+<!-- =========================================================================================================================================== -->
+<!-- Badges Colorida? -->
+<!--     Teste A vermelho ff0000 roxo 52307c vinho 860a2c terroso 9a3245  860a2c -->
+<!-- Badge com tema moltrack (cor combinando com seu perfil) -->
+    
+[![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=for-the-badge&color=860a2c)](https://wakatime.com/@Marcia_Moreira)
+
 <!-- INDICADORES: -->
 <div style="display: inline_block" align="center">
     <h3> - Indicadores de Performance - </h3>
@@ -192,19 +198,21 @@
 <!-- WakaTime Badges: -->
     <!-- https://wakatime.com/@Marcia_Moreira -->
     <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=social)(https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f&theme=moltack)" target="_blank"></a>
-
+   
 <div style="display: inline_block" align="center">
 <!--     <a href="https://github.com/Marcia-Moreira"></a> -->
 <!-- =========================================================================================================================================== -->
     <!-- WakaTime Stats: -->
     <!-- https://wakatime.com/@Marcia_Moreira -->
+    <h2>Quem é</h2>
     <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira)](https://github.com/marcia-moreira/github-readme-stats)" target="_blank"></a>
     <!-- WAKATIME - Extensão instalada no VSCode para monitoramento de tempo de codigo -->
-    <img height="400em" width="600em" alt="Harlok's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&background=#e8c39e](https://github.com/marcia-moreira/github-readme-stats"/>
-
-    <h4>Teste C</h4>
+<!--     <img height="400em" width="600em" alt="Harlok's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&background=#e8c39e](https://github.com/marcia-moreira/github-readme-stats"/> -->
+    <!-- Teste 06 -->
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&theme=moltack" width="300">
+    <br><br>
     <!-- Gráfico de linguagens (mesmo estilo do seu tema) -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&theme=moltack&layout=compact" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&theme=moltack&layout=compact" width="400"/>
 
 </div>
 
