@@ -1,0 +1,28 @@
+name: Atualizar Estatísticas WakaTime
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Atualiza diariamente à meia-noite
+  workflow_dispatch:      # Permite atualização manual
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_USERNAME: "marcia-moreira"  # 👈 Seu user do GitHub
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_COMMIT: "True"
+      - name: Commit changes
+        run: |
+          git config --global user.name "Seu Nome"
+          git config --global user.email "seu-email@exemplo.com"
+          git add .
+          git commit -m "Atualiza estatísticas WakaTime"
+          git push
