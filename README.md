@@ -18,17 +18,7 @@
     <h6>...me chame no whatsApp!</h6>
     <a href="https://wa.me/5511977219430" alt="Meu_WhatsApp" target="_blank"><img height="25" width="80" border-radius="10" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> &nbsp;
 </div>
-<!-- =========================================================================================================================================== -->        
-<!-- INDICADORES: -->
-<div style="display: inline_block" align="center">
-    <h3> Indicadores de Performance: </h3>
-    <a href="https://github.com/Marcia-Moreira">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
-    <!-- Stats Tema = Está Funcionando -->
-    <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&theme=moltack&show_icons=true)"/> -->
-    <!-- Langs Tema Moltack-->
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&layout=compact&langs_count=16&theme=moltack"/>
-</div>
+
 <!-- =========================================================================================================================================== -->
 <!-- CÓDIGO DA COBRINHA - SNAKE (26-01-2024) -->
 <div style="display: inline_block" align="center">
@@ -38,26 +28,7 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcia-moreira/marcia-moreira/output/github-contribution-grid-snake.svg">
     </picture>
 </div>
-<!-- =========================================================================================================================================== -->
-<!-- WAKATIME: -->
-<div style="display: inline_block" align="center">
-    <h3> - Tempo Codando | Debugando | Pesquisando - </h3>
-    <h5> (Contabilizado desde 01/12/2023) </h5>
-    <a href="https://github.com/Marcia-Moreira">
-    <!-- WakaTime Badges: -->
-    <!-- https://wakatime.com/@Marcia_Moreira -->
-    <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=social)(https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f&theme=moltack)" target="_blank"></a>
-</div>
-<div style="display: inline_block" align="center">
-    <a href="https://github.com/Marcia-Moreira">
-    <!-- WakaTime Stats: -->
-    <!-- https://wakatime.com/@Marcia_Moreira -->
-    <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira)](https://github.com/marcia-moreira/github-readme-stats)" target="_blank"></a>
-    <!-- WAKATIME - Extensão instalada no VSCode para monitoramento de tempo de codigo -->
-    <img height="400em" width="600em" alt="Harlok's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&background=#e8c39e](https://github.com/marcia-moreira/github-readme-stats"/>
-</div>
 
-##
 <!-- =========================================================================================================================================== -->
 <div style="display: inline_block" align="center">
     <!-- <h2> - TECNOLOGIAS / SKILLs / STACKs - </h2> -->
@@ -195,6 +166,38 @@
 <p>👩🏽‍💻 Veja todos os projetos no <strong>meu portfólio online</strong>: <br>
 🔗 <a href="https://marcia-moreira.github.io/my_portfolio_Marcia_Moreira">marcia-moreira.github.io/my_portfolio_Marcia_Moreira</a></p>
 
+</div>
+
+##
+<!-- =========================================================================================================================================== -->        
+<!-- INDICADORES: -->
+<div style="display: inline_block" align="center">
+    <h3> Indicadores de Performance: </h3>
+    <a href="https://github.com/Marcia-Moreira">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
+    <!-- Stats Tema = Está Funcionando -->
+    <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&theme=moltack&show_icons=true)"/> -->
+    <!-- Langs Tema Moltack-->
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&layout=compact&langs_count=16&theme=moltack"/>
+</div>
+
+<!-- =========================================================================================================================================== -->
+<!-- WAKATIME: -->
+<div style="display: inline_block" align="center">
+    <h3> - Tempo Codando | Debugando | Pesquisando - </h3>
+    <h5> (Contabilizado desde 01/12/2023) </h5>
+    <a href="https://github.com/Marcia-Moreira">
+    <!-- WakaTime Badges: -->
+    <!-- https://wakatime.com/@Marcia_Moreira -->
+    <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=social)(https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f&theme=moltack)" target="_blank"></a>
+</div>
+<div style="display: inline_block" align="center">
+    <a href="https://github.com/Marcia-Moreira">
+    <!-- WakaTime Stats: -->
+    <!-- https://wakatime.com/@Marcia_Moreira -->
+    <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira)](https://github.com/marcia-moreira/github-readme-stats)" target="_blank"></a>
+    <!-- WAKATIME - Extensão instalada no VSCode para monitoramento de tempo de codigo -->
+    <img height="400em" width="600em" alt="Harlok's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&background=#e8c39e](https://github.com/marcia-moreira/github-readme-stats"/>
 </div>
 
 ##
