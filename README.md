@@ -79,7 +79,7 @@
 <!-- VERSIONADORES E DEPLOY: -->
 <div align="center">
 <h3> - Versionamento | Deploy - </h3>
-    
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
@@ -187,12 +187,14 @@
     <h3> - Tempo Codando | Debugando | Pesquisando - </h3>
     <h5> (Contabilizado desde 01/12/2023) </h5>
     <a href="https://github.com/Marcia-Moreira">
-    <!-- WakaTime Badges: -->
+<!-- =========================================================================================================================================== -->
+<!-- WakaTime Badges: -->
     <!-- https://wakatime.com/@Marcia_Moreira -->
     <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=social)(https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f&theme=moltack)" target="_blank"></a>
 </div>
 <div style="display: inline_block" align="center">
     <a href="https://github.com/Marcia-Moreira">
+<!-- =========================================================================================================================================== -->
     <!-- WakaTime Stats: -->
     <!-- https://wakatime.com/@Marcia_Moreira -->
     <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira)](https://github.com/marcia-moreira/github-readme-stats)" target="_blank"></a>
@@ -201,22 +203,81 @@
 </div>
 
 ##
+<!-- =========================================================================================================================================== -->
 
-
-##
+## TESTES DE WAKATIME:
 <!--START_SECTION:waka-->
 <!-- Aqui aparecerão suas estatísticas automaticamente! -->
 <!--END_SECTION:waka-->
 
+# Teste de WakaTime 01:
+<!-- SE WAKATIME ID 018c270f-a496-4f2e-a75f-a068fd08050f -->
+![Estatísticas WakaTime](https://wakatime.com/share/@Marcia-Moreira/018c270f-a496-4f2e-a75f-a068fd08050f.svg)
 
-<!-- ID 018c270f-a496-4f2e-a75f-a068fd08050f -->
-![Estatísticas WakaTime](https://wakatime.com/share/@marcia-moreira/018c270f-a496-4f2e-a75f-a068fd08050f.svg)
+# Teste de WakaTime 02:
+![Estatísticas WakaTime](https://github.com/seu-user/@Marcia-Moreira/blob/main/images/stats.svg)
 
-# Teste de WakaTime:
+# Teste de WakaTime 03:
+![Estatísticas WakaTime](https://github.com/Marcia-Moreira/@marcia-moreira/blob/main/images/stats.svg)
 
-![Estatísticas WakaTime](https://github.com/seu-user/seu-repo/blob/main/images/stats.svg)
+# Teste de WakaTime 04:
+<!-- WAKATIME STATS -->
+<div align="center">
+  <h3>⏳ Tempo de Codificação (WakaTime)</h3>
+  
+  <!-- Gráfico de barras semanal -->
+  <img src="https://wakatime.com/share/@Marcia_Moreira/018c270f-a496-4f2e-a75f-a068fd08050f.svg" width="400" alt="Estatísticas WakaTime">
+  
+  <!-- Estatísticas detalhadas (aparecerão automaticamente após o workflow rodar) -->
+  ```text
+  💻 Tempo codando esta semana: 15 hrs 20 mins
+  📅 Mais produtiva: Quarta-feira
+  🕒 Pico de produtividade: 14h - 16h
+  🔥 Linguagens principais: Python, JavaScript, HTML
+  ```
+</div> 
 
-![Estatísticas WakaTime](https://github.com/marcia-moreira/marcia-moreira/blob/main/images/stats.svg)
+##
+# Teste de WakaTime 05:
+<img src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira)](https://github.com/marcia-moreira/github-readme-stats)" target="_blank">
+
+# Teste de WakaTime 06:
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&theme=moltack" width="400">
+
+## 
+# Teste de WakaTime 07:
+[![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg)](https://wakatime.com/@Marcia_Moreira)
+
+
+# Teste de WakaTime 08:
+<img src="https://wakatime.com/share/@Marcia_Moreira/018c270f-a496-4f2e-a75f-a068fd08050f.svg" width="400">
+
+##
+
+# Teste de WakaTime 09:
+
+## ⏳ ESTATÍSTICAS WAKATIME
+
+<div align="center">
+
+<!-- Badge com tema moltrack (cor combinando com seu perfil) -->
+[![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=for-the-badge&color=52307c)](https://wakatime.com/@Marcia_Moreira)
+
+<!-- Gráfico semanal (400px de largura) -->
+<img src="https://wakatime.com/share/@Marcia_Moreira/018c270f-a496-4f2e-a75f-a068fd08050f.svg" width="400" alt="Estatísticas">
+
+<!-- Gráfico de linguagens (mesmo estilo do seu tema) -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&theme=moltack&layout=compact" width="400">
+
+<!-- Estatísticas automáticas (aparecerão após o workflow rodar) -->
+```text
+💻 Tempo total: 127 hrs 
+📅 Última semana: 15 hrs 20 mins
+🔥 Top Linguagens: Python (42%), JavaScript (35%), HTML (23%)
+```
+</div>
+
+
 ##
 <!-- =========================================================================================================================================== -->
 <!--  MEUS CONTATOS E REDES SOCIAIS -->
