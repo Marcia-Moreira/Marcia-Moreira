@@ -258,16 +258,28 @@
 
 ## ⏳ ESTATÍSTICAS WAKATIME
 
-<div align="center">
-
+# Teste A
 <!-- Badge com tema moltrack (cor combinando com seu perfil) -->
 [![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=for-the-badge&color=52307c)](https://wakatime.com/@Marcia_Moreira)
 
+
+<div align="center">
+
+<h4>Teste B</h4>
 <!-- Gráfico semanal (400px de largura) -->
 <img src="https://wakatime.com/share/@Marcia_Moreira/018c270f-a496-4f2e-a75f-a068fd08050f.svg" width="400" alt="Estatísticas">
 
+<!-- Gráfico semanal CORRETO -->
+<img src="https://wakatime.com/share/@Marcia_Moreira/018c270f-a496-4f2e-a75f-a068fd08050f.svg" width="500" alt="Estatísticas">
+
+<!-- GRÁFICO SEMANAL (COLE O LINK QUE VOCÊ COPIOU AQUI) -->
+<img src="https://wakatime.com/share/@Marcia_Moreira/abcdef12-3456-7890-1234-567890abcdef.svg" width="500">
+
+<h4>Teste C</h4>
 <!-- Gráfico de linguagens (mesmo estilo do seu tema) -->
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&theme=moltack&layout=compact" width="400">
+
+<h4>Teste D</h4>
 
 <!-- Estatísticas automáticas (aparecerão após o workflow rodar) -->
 ```text
