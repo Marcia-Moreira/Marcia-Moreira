@@ -293,6 +293,19 @@
 <!-- Aqui aparecerão suas estatísticas automaticamente! -->
 <!--END_SECTION:waka-->
 
+##
+# Teste do Chat GPT
+
+<!-- WakaTime Badge -->
+[![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg)](https://wakatime.com/@Marcia_Moreira)
+
+<!-- WakaTime Share Weekly -->
+<img src="https://wakatime.com/share/@Marcia_Moreira/018c270f-a496-4f2e-a75f-a068fd08050f.svg" width="400" alt="Estatísticas WakaTime">
+
+[![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg)](https://wakatime.com/@Marcia_Moreira)
+
+<img src="https://wakatime.com/share/@Marcia_Moreira/018c270f-a496-4f2e-a75f-a068fd08050f.svg" width="400" alt="Estatísticas WakaTime">
+
 
 ##
 <!-- =========================================================================================================================================== -->
