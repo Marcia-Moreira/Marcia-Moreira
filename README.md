@@ -134,42 +134,68 @@
 ##
 <!-- =========================================================================================================================================== -->
 <!-- PROJETOS E SEUS LINKS  -->
-## 🚀 Projetos em Destaque
+<div style="display: inline_block" align="center">
+    <h2> 🚀 Projetos em Destaque 🚀 </h2>
+    <p>Lista dos meus projetos autorais organizados por temas e níveis, seguindo a estrutura `Portfolio_Proj_00X-NomeDoProjeto`.</p>    
+</div>
 
-Lista dos meus projetos autorais organizados por temas e níveis, seguindo a estrutura `Portfolio_Proj_00X-NomeDoProjeto`.
+<div align="center">
 
----
+<table>
+  <thead align="center">
+    <tr>
+      <th>🧱<br><em>Projeto</em></th>
+      <th>🎯<br><em>Stacks</em></th>
+      <th>📄<br><em>Informações</em></th>
+      <th>🔗<br><em>Repositório</em></th>
+      <th>🌐<br><em>Deploy</em></th>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td>Cafeteria Carioca</td>
+      <td>HTML5-CSS3-JS</td>
+      <td>Formulário de login com layout responsivo</td>
+<!--       <td>Formulário de login com layout responsivo, feito com HTML5, CSS3 e JavaScript Vanilla</td> -->
+      <td><a href="https://github.com/Marcia-Moreira/Portfolio_Proj_001-LoginResponsivo">GitHub</a></td>
+      <td><a href="https://marcia-moreira.github.io/Portfolio_Proj_001-LoginResponsivo/">Online</a></td>
+    </tr>
+    <tr>
+      <td>Game Genius</td>
+      <td><strong>Landing Page Beleza</strong><br><em>Mobile First, CSS Animado</em></td>
+      <td>Página de produto com design atrativo, animações suaves e foco em mobile first</td>
+      <td><a href="https://github.com/Marcia-Moreira/Portfolio_Proj_002-LandingPageBeleza">GitHub</a></td>
+      <td><a href="https://marcia-moreira.github.io/Portfolio_Proj_002-LandingPageBeleza/">Online</a></td>
+    </tr>
+    <tr>
+      <td>nome do projeto</td>
+      <td><strong>Dashboard Interativo</strong><br><em>Chart.js, Filtros Visuais</em></td>
+      <td>Dashboard com gráficos dinâmicos usando Chart.js, dados simulados e filtros visuais</td>
+      <td><a href="https://github.com/Marcia-Moreira/Portfolio_Proj_003-DashboardInterativo">GitHub</a></td>
+      <td><a href="https://marcia-moreira.github.io/Portfolio_Proj_003-DashboardInterativo/">Online</a></td>
+    </tr>
+    <tr>
+      <td>nome do projeto</td>
+      <td><strong>Componente Tabs</strong><br><em>JS + CSS</em></td>
+      <td>Componente reutilizável de abas (tabs), com comportamento animado em JS.</td>
+      <td><a href="https://github.com/Marcia-Moreira/Portfolio_Proj_004-ComponenteTabs">GitHub</a></td>
+      <td><a href="https://marcia-moreira.github.io/Portfolio_Proj_004-ComponenteTabs/">Online</a></td>
+    </tr>
+    <tr>
+      <td>nome do projeto</td>
+      <td><strong>App Mobile Like</strong><br><em>Dark Mode + Layout App</em></td>
+      <td>Interface inspirada em apps móveis com navegação lateral e dark mode</td>
+      <td><a href="https://github.com/Marcia-Moreira/Portfolio_Proj_005-AppMobileLike">GitHub</a></td>
+      <td><a href="https://marcia-moreira.github.io/Portfolio_Proj_005-AppMobileLike/">Online</a></td>
+    </tr>
+  </tbody>
+</table>
 
-### 🎨 Interfaces e Estilo
+<br>
+<p>👩🏽‍💻 Veja todos os projetos no <strong>meu portfólio online</strong>: <br>
+🔗 <a href="https://marcia-moreira.github.io/my_portfolio_Marcia_Moreira">marcia-moreira.github.io/my_portfolio_Marcia_Moreira</a></p>
 
-1. 🟣 [Portfolio_Proj_001-LoginResponsivo](https://github.com/Marcia-Moreira/Portfolio_Proj_001-LoginResponsivo)  
-   Formulário de login com layout responsivo, feito com HTML5, CSS3 e JavaScript Vanilla.
-
-2. 🎨 [Portfolio_Proj_002-LandingPageBeleza](https://github.com/Marcia-Moreira/Portfolio_Proj_002-LandingPageBeleza)  
-   Página de produto com design atrativo, animações suaves e foco em mobile first.
-
----
-
-### 📊 Dashboards e Componentes Interativos
-
-3. 📊 [Portfolio_Proj_003-DashboardInterativo](https://github.com/Marcia-Moreira/Portfolio_Proj_003-DashboardInterativo)  
-   Dashboard com gráficos dinâmicos usando Chart.js, dados simulados e filtros visuais.
-
-4. 🧩 [Portfolio_Proj_004-ComponenteTabs](https://github.com/Marcia-Moreira/Portfolio_Proj_004-ComponenteTabs)  
-   Componente reutilizável de abas (tabs), com comportamento animado em JS.
-
----
-
-### 📱 Experimentos Mobile First
-
-5. 📱 [Portfolio_Proj_005-AppMobileLike](https://github.com/Marcia-Moreira/Portfolio_Proj_005-AppMobileLike)  
-   Interface inspirada em apps móveis com navegação lateral e dark mode.
-
----
-
-👩🏽‍💻 Veja todos os projetos no meu portfólio online:  
-🔗 [marcia-moreira.github.io/my_portfolio_Marcia_Moreira](https://marcia-moreira.github.io/my_portfolio_Marcia_Moreira/)
-
+</div>
 
 ##
 <!-- =========================================================================================================================================== -->
