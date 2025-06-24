@@ -201,6 +201,23 @@
 </div>
 
 ##
+
+
+##
+<!--START_SECTION:waka-->
+<!-- Aqui aparecerão suas estatísticas automaticamente! -->
+<!--END_SECTION:waka-->
+
+
+<!-- ID 018c270f-a496-4f2e-a75f-a068fd08050f -->
+![Estatísticas WakaTime](https://wakatime.com/share/@marcia-moreira/018c270f-a496-4f2e-a75f-a068fd08050f.svg)
+
+# Teste de WakaTime:
+
+![Estatísticas WakaTime](https://github.com/seu-user/seu-repo/blob/main/images/stats.svg)
+
+![Estatísticas WakaTime](https://github.com/marcia-moreira/marcia-moreira/blob/main/images/stats.svg)
+##
 <!-- =========================================================================================================================================== -->
 <!--  MEUS CONTATOS E REDES SOCIAIS -->
 <div style="display: inline_block" align="center">
