@@ -14,7 +14,7 @@
 <!-- SOBRE: -->
 <div style="display: inline_block" align="center">
     <p> 👩🏽‍💻 Trabalho com Desenvolvimento Web Front-End </p>
-    <p> Estou aprofundando meus 🌱 conhecimentos em  <strong> JavaScript <strong> e cursando PÓS Graduação em <strong> Desenvolvimento Web Full Stack <strong></p>
+    <p> Aprofundando meus 🌱 conhecimentos em  <strong> JavaScript <strong> e cursando PÓS Graduação em <strong> Desenvolvimento Web Full Stack <strong></p>
     <h6>...me chame no whatsApp!</h6>
     <a href="https://wa.me/5511977219430" alt="Meu_WhatsApp" target="_blank"><img height="25" width="80" border-radius="10" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> &nbsp;
 </div>
