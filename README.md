@@ -191,9 +191,9 @@
 <!-- WakaTime Badges: -->
     <!-- https://wakatime.com/@Marcia_Moreira -->
     <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=social)(https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f&theme=moltack)" target="_blank"></a>
-</div>
+
 <div style="display: inline_block" align="center">
-    <a href="https://github.com/Marcia-Moreira">
+    <a href="https://github.com/Marcia-Moreira"></a>
 <!-- =========================================================================================================================================== -->
     <!-- WakaTime Stats: -->
     <!-- https://wakatime.com/@Marcia_Moreira -->
@@ -258,9 +258,9 @@
 
 ## ⏳ ESTATÍSTICAS WAKATIME
 
-# Teste A
+# Teste A vermelho ff0000 roxo 52307c vinho 860a2c terroso 9a3245  860a2c
 <!-- Badge com tema moltrack (cor combinando com seu perfil) -->
-[![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=for-the-badge&color=52307c)](https://wakatime.com/@Marcia_Moreira)
+[![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=for-the-badge&color=860a2c)](https://wakatime.com/@Marcia_Moreira)
 
 
 <div align="center">
