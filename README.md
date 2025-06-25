@@ -22,6 +22,7 @@
 <!-- =========================================================================================================================================== -->
 <!-- CÓDIGO DA COBRINHA - SNAKE (26-01-2024) -->
 <div style="display: inline_block" align="center">
+    <h2> - Snake Commits - </h2>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcia-moreira/marcia-moreira/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcia-moreira/marcia-moreira/output/github-contribution-grid-snake.svg">
