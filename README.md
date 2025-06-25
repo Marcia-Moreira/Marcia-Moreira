@@ -174,18 +174,28 @@
 <!-- Badges Colorida? -->
 <!--     Teste A vermelho ff0000 roxo 52307c vinho 860a2c terroso 9a3245  860a2c -->
 <!-- Badge com tema moltrack (cor combinando com seu perfil) -->
-    
-[![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=for-the-badge&color=860a2c)](https://wakatime.com/@Marcia_Moreira)
+<div align="center">
+    ![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=for-the-badge&color=860a2c)](https://wakatime.com/@Marcia_Moreira)
+</div>
 
+
+[![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=for-the-badge&color=860a2c)](https://wakatime.com/@Marcia_Moreira)
+    
 <!-- INDICADORES: -->
 <div style="display: inline_block" align="center">
     <h3> - Indicadores de Performance - </h3>
     <br>
+    <!-- 001 Tabela -->
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&theme=moltack" width="300">
+    <!-- 002 Tabela -->
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&theme=moltack&layout=compact" width="400"/>
+    <!-- 003 Marcia Moreira's Stats: B- -->
     <a href="https://github.com/Marcia-Moreira">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
-    <!-- Stats Tema = Está Funcionando -->
-    <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&theme=moltack&show_icons=true)"/> -->
-    <!-- Langs Tema Moltack-->
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+    &nbsp;&nbsp;&nbsp;        
+    <!-- Stats Tema = Está Funcionando Ano Anterior?? -->
+<!--     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&theme=moltack&show_icons=true)"/> -->
+    <!-- 004 Most Used Languages - Langs Tema Moltack-->
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&layout=compact&langs_count=16&theme=moltack"/>
 </div>
 
