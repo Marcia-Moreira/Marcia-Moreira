@@ -13,7 +13,7 @@
 <!-- =========================================================================================================================================== -->
 <!-- SOBRE: -->
 <div style="display: inline_block" align="center">
-    <p> 👩🏽‍💻 Trabalho com Desenvolvimento Web Front-End </p>
+    <h2> 👩🏽‍💻 Trabalho com Desenvolvimento Web Front-End </h2>
     <p> Aprofundando meus 🌱 conhecimentos em  <strong> JavaScript <strong> e cursando PÓS Graduação em <strong> Desenvolvimento Web Full Stack <strong></p>
     <h6>...me chame no whatsApp!</h6>
     <a href="https://wa.me/5511977219430" alt="Meu_WhatsApp" target="_blank"><img height="25" width="80" border-radius="10" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> &nbsp;
@@ -33,9 +33,8 @@
 <!-- =========================================================================================================================================== -->
 <div style="display: inline_block" align="center">
     <!-- <h2> - TECNOLOGIAS / SKILLs / STACKs - </h2> -->
-    <h2> 🌐 Tecnologias | Skills | Stacks 🌐 </h2>
-    &nbsp;
-    
+    <h2> 🌐  Tecnologias | Skills | Stacks  🌐 </h2>
+    &nbsp;    
 </div>
 
 <!-- =========================================================================================================================================== -->
@@ -43,11 +42,11 @@
 <div style="display: inline_block;" align="center">
     <h3> - Linguagens de Programação | Marcação | Estilo - </h3>
     &nbsp;
+    <img align="center" alt="MM-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-Html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
     &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-    &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="MM-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-Py" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
     &nbsp;&nbsp;&nbsp;
@@ -58,6 +57,7 @@
     <img align="center" alt="MM-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-Markdown-Light" height="50" width="50" src="https://raw.githubusercontent.com/github/explore/main/topics/markdown/markdown.png">
+    &nbsp;&nbsp;&nbsp;
 </div>
 
 ##
@@ -108,11 +108,11 @@
 <!-- PROJETOS E SEUS LINKS  -->
 <div style="display: inline_block" align="center">
     <h2> 🚀 Projetos em Destaque 🚀 </h2>
-    <p>Lista dos meus projetos autorais organizados por temas e níveis, seguindo a estrutura `Portfolio_Proj_00X-NomeDoProjeto`.</p>    
+    <p>Lista dos meus projetos autorais organizados por temas e níveis, seguindo a estrutura... .</p>
+    &nbsp;
 </div>
 
 <div align="center">
-
 <table>
   <thead align="center">
     <tr>
