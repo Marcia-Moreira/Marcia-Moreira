@@ -1,28 +1,34 @@
 <!-- VIA OFICIAL NO GITHUB 26-01-2023 17H -->
+<!-- Reformulado em 06-2025 -->
 <!-- Arquivo VSCode - Readme_MM_002.md -->
-<!-- Pasta - MM_PROJETO-README_PADRAO_NO_GITHUB -->
+<!-- Pasta - MM_PROJETO-README_PADRAO_NO_GITHUB  Não localizado em 30-06-25-->
 <!-- Links:  Vide Rodapé da Página! -->
-<!-- =========================================================================================================================================== -->
+<!-- ##  -->
+<!-- --- -->
+<!-- <hr>  -->
+<!-- ==================================================================================================================== -->
 <!-- ANIMAÇÃO DA APRESENTAÇÃO: -->
+<!-- ==================================================================================================================== -->
 <div style="display: inline_block" align="center" font-size="30">
     <!-- <h2 align="center">Olá! Eu sou a Marcia Moreira, seja bem vindo ao meu perfil! </h2> -->
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DEA585&vCenter=true&random=false&width=435&lines=Ol%C3%A1+👋🏽!+Eu+sou+a+Marcia+Moreira%2C;seja+bem+vindo+ao+meu+perfil+👩🏽‍💻!" alt="Typing SVG Meu Letreiro"/>
 </div>
 
-##
-<!-- =========================================================================================================================================== -->
+<!-- ==================================================================================================================== -->
 <!-- SOBRE: -->
+<!-- ==================================================================================================================== -->
 <div style="display: inline_block" align="center">
     <h2> 👩🏽‍💻 Trabalho com Desenvolvimento Web Front-End </h2>
     <p> Aprofundando meus 🌱 conhecimentos em  <strong> JavaScript <strong> e cursando PÓS Graduação em <strong> Desenvolvimento Web Full Stack <strong></p>
-    <h6>...me chame no whatsApp!</h6>
+    <h5>...me chame no whatsApp!</h5>
     <a href="https://wa.me/5511977219430" alt="Meu_WhatsApp" target="_blank"><img height="25" width="80" border-radius="10" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> &nbsp;
 </div>
 
-<!-- =========================================================================================================================================== -->
+<!-- ==================================================================================================================== -->
 <!-- CÓDIGO DA COBRINHA - SNAKE (26-01-2024) -->
+<!-- ==================================================================================================================== -->
 <div style="display: inline_block" align="center">
-    <h2> - Snake Commits - </h2>
+    <h2> 🐍 Snake Commits 🐍 </h2>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcia-moreira/marcia-moreira/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcia-moreira/marcia-moreira/output/github-contribution-grid-snake.svg">
@@ -30,15 +36,18 @@
     </picture>
 </div>
 
-<!-- =========================================================================================================================================== -->
+<!-- ==================================================================================================================== -->
+<!-- SKILLS -->
+<!-- ==================================================================================================================== -->
 <div style="display: inline_block" align="center">
     <!-- <h2> - TECNOLOGIAS / SKILLs / STACKs - </h2> -->
     <h2> 🌐  Tecnologias | Skills | Stacks  🌐 </h2>
     &nbsp;    
 </div>
 
-<!-- =========================================================================================================================================== -->
+<!-- ==================================================================================================================== -->
 <!--  LINGUAGENS: -->
+<!-- ==================================================================================================================== -->
 <div style="display: inline_block;" align="center">
     <h3> - Linguagens de Programação | Marcação | Estilo - </h3>
     &nbsp;
@@ -61,8 +70,9 @@
 </div>
 
 ##
-<!-- =========================================================================================================================================== -->
+<!-- ==================================================================================================================== -->
 <!-- BANCO DE DADOS: -->
+<!-- ==================================================================================================================== -->
 <div style="display: inline_block;" align="center">
     <h3> - Banco de Dados - </h3>
      &nbsp;
@@ -76,8 +86,9 @@
 </div>
 
 ##
-<!-- =========================================================================================================================================== -->
+<!-- ==================================================================================================================== -->
 <!-- VERSIONADORES E DEPLOY: -->
+<!-- ==================================================================================================================== -->
 <div align="center">
 <h3> - Versionamento | Deploy - </h3>
 
@@ -88,8 +99,9 @@
 </div>
 
 ##
-<!-- =========================================================================================================================================== -->
+<!-- ==================================================================================================================== -->
 <!--  FrameWork / IDE's / Ferramentas Diversas: -->
+<!-- ==================================================================================================================== -->
 <div align="center">
 <h3> - FrameWorks | IDE's | Ferramentas Diversas - </h3>
     
@@ -100,15 +112,15 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;&nbsp;
 </div>
 
-##
-<!-- =========================================================================================================================================== -->
+<!-- ==================================================================================================================== -->
 <!-- PROJETOS E SEUS LINKS  -->
+<!-- ==================================================================================================================== -->
 <div style="display: inline_block" align="center">
     <h2> 🚀 Projetos em Destaque 🚀 </h2>
-    <p>Lista dos meus projetos autorais organizados por temas e níveis, seguindo a estrutura... .</p>
+    <p>Lista dos meus projetos autorais ou de estudos desenvolvidos em cursos, bootcamps ou videoaulas.</p>
     &nbsp;
 </div>
 
@@ -164,177 +176,93 @@
 </table>
 
 <br>
-<p>👩🏽‍💻 Veja todos os projetos no <strong>meu portfólio online</strong>: <br>
+<p>👩🏽‍💻 Veja todos os projetos no <strong>meu portfólio online</strong>: <br><br>
 🔗 <a href="https://marcia-moreira.github.io/my_portfolio_Marcia_Moreira">marcia-moreira.github.io/my_portfolio_Marcia_Moreira</a></p>
+<br>
 
 </div>
 
 ##
-<!-- =========================================================================================================================================== -->
-<!-- Badges Colorida? -->
-<!--     Teste A vermelho ff0000 roxo 52307c vinho 860a2c terroso 9a3245  860a2c -->
-<!-- Badge com tema moltrack (cor combinando com seu perfil) -->
-<div align="center">
-    ![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=for-the-badge&color=860a2c)](https://wakatime.com/@Marcia_Moreira)
-</div>
-
-
-[![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=for-the-badge&color=860a2c)](https://wakatime.com/@Marcia_Moreira)
-    
+<!-- ==================================================================================================================== -->
 <!-- INDICADORES: -->
+<!-- ==================================================================================================================== -->
 <div style="display: inline_block" align="center">
-    <h3> - Indicadores de Performance - </h3>
+    <h3> 📈 Indicadores de Performance 📈 </h3>
     <br>
-    <!-- 001 Tabela -->
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&theme=moltack" width="300">
-    <!-- 002 Tabela -->
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&theme=moltack&layout=compact" width="400"/>
-    <!-- 003 Marcia Moreira's Stats: B- -->
-    <a href="https://github.com/Marcia-Moreira">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-    &nbsp;&nbsp;&nbsp;        
-    <!-- Stats Tema = Está Funcionando Ano Anterior?? -->
-<!--     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&theme=moltack&show_icons=true)"/> -->
-    <!-- 004 Most Used Languages - Langs Tema Moltack-->
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&layout=compact&langs_count=16&theme=moltack"/>
-</div>
-
-<!-- =========================================================================================================================================== -->
-<!-- WAKATIME: -->
-<div style="display: inline_block" align="center">
-    <h3> - Tempo Codando | Debugando | Pesquisando - </h3>
-    <h5> (Contabilizado desde 01/12/2023) </h5>
+    <!-- 001 Tabela em Lista Única e Unicor: Escolhi a Colorida hoje!-->
+    <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&theme=moltack" width="300">  -->
+    <!-- 002 Tabela em Lista Dupla Colorida: A escolhida do Dia!-->
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&theme=moltack&layout=compact" width="350"/>
+    <br>
+    <!-- 003 Marcia Moreira's Stats: B: -->
 <!--     <a href="https://github.com/Marcia-Moreira"> -->
-<!-- =========================================================================================================================================== -->
-<!-- WakaTime Badges: -->
-    <!-- https://wakatime.com/@Marcia_Moreira -->
-    <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=social)(https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f&theme=moltack)" target="_blank"></a>
-   
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+    <br>        
+    <!-- 004 Most Used Languages - Langs Tema Moltack: Em Percentual -->
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&layout=compact&langs_count=16&theme=moltack"/>
+    <br>
+</div>
+
+##
+<!-- ==================================================================================================================== -->
+<!-- WAKATIME: REVER -->
+<!-- ==================================================================================================================== -->
 <div style="display: inline_block" align="center">
-<!--     <a href="https://github.com/Marcia-Moreira"></a> -->
-<!-- =========================================================================================================================================== -->
-    <!-- WakaTime Stats: -->
+    <h3> ⏳ Tempo de Codificação | Debugando | Pesquisando (WakaTime) ⏳ </h3>
+    <br>
+    <p>🛠️ Acompanhe meu progresso técnico com o WakaTime — ferramenta que registra automaticamente meu tempo em projetos de código, estudos e práticas!</p>
+    <h5> (Contabilizado desde 01/12/2023) </h5>
+    <br>
+<!--     <a href="https://github.com/Marcia-Moreira"> -->
+<!-- ==================================================================================================================== -->
+<!-- WakaTime Badges: Cor Padrão WakaTime -->
+<!-- ==================================================================================================================== -->
     <!-- https://wakatime.com/@Marcia_Moreira -->
-    <h2>Quem é</h2>
-    <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira)](https://github.com/marcia-moreira/github-readme-stats)" target="_blank"></a>
-    <!-- WAKATIME - Extensão instalada no VSCode para monitoramento de tempo de codigo -->
-<!--     <img height="400em" width="600em" alt="Harlok's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&background=#e8c39e](https://github.com/marcia-moreira/github-readme-stats"/> -->
-    <!-- Teste 06 -->
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&theme=moltack" width="300">
-    <br><br>
-    <!-- Gráfico de linguagens (mesmo estilo do seu tema) -->
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&theme=moltack&layout=compact" width="400"/>
+<!--     <a href="https://wakatime.com/@Marcia_Moreira" alt="WakaTime" target="_blank"><img src="https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=social)(https://wakatime.com/@018c270f-a496-4f2e-a75f-a068fd08050f&theme=moltack)" target="_blank"></a> -->
+   
+</div>
+<!-- ==================================================================================================================== -->
+<!-- Badge WakaTime Customizada e Centralizada: -->
+<!-- ==================================================================================================================== -->
 
+<!-- Badge com tema moltrack (cor combinando com seu perfil) - Não Centralizada -->
+<!-- [![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=for-the-badge&color=860a2c)](https://wakatime.com/@Marcia_Moreira)  -->
+
+<!--  Versão Centralizada  -->
+<p align="center">
+  <a href="https://wakatime.com/@Marcia_Moreira" target="_blank">
+    <img src="https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=for-the-badge&color=860a2c" alt="WakaTime">
+  </a>
+</p>
+
+##
+<!-- ==================================================================================================================== -->
+<!-- CURIOSIDADES sobre mim: -->
+<!-- ==================================================================================================================== -->
+<div style="display: inline_block" align="center">
+    <h3> 🎯 Interesses Além do Código 🎯 </h3>
+    <br>
+    <p>Além do teclado e dos commits, também me dedico (ou me aventuro! 😄) em atividades que alimentam minha criatividade e bem-estar:</p>
+    <br>
+<!-- Linha de ícones de Curiosidades -->
+<p align="center">
+
+🏃🏽‍♀️ Corrida de rua (vida longa às endorfinas!)
+
+🪚 Marcenaria Modular (amo transformar madeira em ideias que solucionam!)
+
+💃🏾 Dança do Ventre (expressão, ritmo e liberdade)
+
+🛼 Patinação (porque equilíbrio e diversão andam juntos)
+
+🧶 Artesanato (criar com as mãos é terapêutico)
+</p>
 </div>
 
 ##
-<!-- =========================================================================================================================================== -->
-
-## TESTES DE WAKATIME:
-<!--START_SECTION:waka-->
-<!-- Aqui aparecerão suas estatísticas automaticamente! -->
-<!--END_SECTION:waka-->
-
-# Teste de WakaTime 01:
-<!-- SE WAKATIME ID 018c270f-a496-4f2e-a75f-a068fd08050f -->
-![Estatísticas WakaTime](https://wakatime.com/share/@Marcia-Moreira/018c270f-a496-4f2e-a75f-a068fd08050f.svg)
-
-# Teste de WakaTime 02:
-![Estatísticas WakaTime](https://github.com/seu-user/@Marcia-Moreira/blob/main/images/stats.svg)
-
-# Teste de WakaTime 03:
-![Estatísticas WakaTime](https://github.com/Marcia-Moreira/@marcia-moreira/blob/main/images/stats.svg)
-
-# Teste de WakaTime 04:
-<!-- WAKATIME STATS -->
-<div align="center">
-  <h3>⏳ Tempo de Codificação (WakaTime)</h3>
-  
-  <!-- Gráfico de barras semanal -->
-  <img src="https://wakatime.com/share/@Marcia_Moreira/018c270f-a496-4f2e-a75f-a068fd08050f.svg" width="400" alt="Estatísticas WakaTime">
-  
-  <!-- Estatísticas detalhadas (aparecerão automaticamente após o workflow rodar) -->
-  ```text
-  💻 Tempo codando esta semana: 15 hrs 20 mins
-  📅 Mais produtiva: Quarta-feira
-  🕒 Pico de produtividade: 14h - 16h
-  🔥 Linguagens principais: Python, JavaScript, HTML
-  ```
-</div> 
-
-##
-# Teste de WakaTime 05:
-<img src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira)](https://github.com/marcia-moreira/github-readme-stats)" target="_blank">
-
-# Teste de WakaTime 06:
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&theme=moltack" width="400">
-
-## 
-# Teste de WakaTime 07:
-[![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg)](https://wakatime.com/@Marcia_Moreira)
-
-
-# Teste de WakaTime 08:
-<img src="https://wakatime.com/share/@Marcia_Moreira/018c270f-a496-4f2e-a75f-a068fd08050f.svg" width="400">
-
-##
-
-# Teste de WakaTime 09:
-
-## ⏳ ESTATÍSTICAS WAKATIME
-
-# Teste A vermelho ff0000 roxo 52307c vinho 860a2c terroso 9a3245  860a2c
-<!-- Badge com tema moltrack (cor combinando com seu perfil) -->
-[![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg?style=for-the-badge&color=860a2c)](https://wakatime.com/@Marcia_Moreira)
-
-
-<div align="center">
-
-<h4>Teste B</h4>
-<!-- Gráfico semanal (400px de largura) -->
-<img src="https://wakatime.com/share/@Marcia_Moreira/018c270f-a496-4f2e-a75f-a068fd08050f.svg" width="400" alt="Estatísticas">
-
-<!-- Gráfico semanal CORRETO -->
-<img src="https://wakatime.com/share/@Marcia_Moreira/018c270f-a496-4f2e-a75f-a068fd08050f.svg" width="500" alt="Estatísticas">
-
-<!-- GRÁFICO SEMANAL (COLE O LINK QUE VOCÊ COPIOU AQUI) -->
-<img src="https://wakatime.com/share/@Marcia_Moreira/abcdef12-3456-7890-1234-567890abcdef.svg" width="500">
-
-<h4>Teste C</h4>
-<!-- Gráfico de linguagens (mesmo estilo do seu tema) -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcia_Moreira&theme=moltack&layout=compact" width="400">
-
-<h4>Teste D</h4>
-
-<!-- Estatísticas automáticas (aparecerão após o workflow rodar) -->
-```text
-💻 Tempo total: 127 hrs 
-📅 Última semana: 15 hrs 20 mins
-🔥 Top Linguagens: Python (42%), JavaScript (35%), HTML (23%)
-```
-</div>
-
-<!--START_SECTION:waka-->
-<!-- Aqui aparecerão suas estatísticas automaticamente! -->
-<!--END_SECTION:waka-->
-
-##
-# Teste do Chat GPT
-
-<!-- WakaTime Badge -->
-[![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg)](https://wakatime.com/@Marcia_Moreira)
-
-<!-- WakaTime Share Weekly -->
-<img src="https://wakatime.com/share/@Marcia_Moreira/018c270f-a496-4f2e-a75f-a068fd08050f.svg" width="400" alt="Estatísticas WakaTime">
-
-[![wakatime](https://wakatime.com/badge/user/018c270f-a496-4f2e-a75f-a068fd08050f.svg)](https://wakatime.com/@Marcia_Moreira)
-
-<img src="https://wakatime.com/share/@Marcia_Moreira/018c270f-a496-4f2e-a75f-a068fd08050f.svg" width="400" alt="Estatísticas WakaTime">
-
-
-##
-<!-- =========================================================================================================================================== -->
+<!-- ==================================================================================================================== -->
 <!--  MEUS CONTATOS E REDES SOCIAIS -->
+<!-- ==================================================================================================================== -->
 <div style="display: inline_block" align="center">
     &nbsp;
     <h3> - Meus Contatos e Redes Sociais - </h3>
@@ -361,10 +289,12 @@
 </div>
 
 ##
+<!-- ==================================================================================================================== -->
+<!-- ==================================================================================================================== -->
 
 <div align="center">
   <br>
-  <p><a href="https://wa.me/5511977219430" style="text-decoration: none; color: inherit;"><strong>M_M-Web</strong> 📞 </a></p>
+  <p><a href="https://wa.me/5511977219430" style="text-decoration: none; color: inherit;"><strong>M_M-Web by Marcia Moreira</strong> 📞 </a></p>
   <p>&copy; 2025</p>
 </div>
 
