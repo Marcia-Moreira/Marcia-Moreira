@@ -112,7 +112,8 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+<br>
 </div>
 
 <!-- ==================================================================================================================== -->
@@ -121,7 +122,6 @@
 <div style="display: inline_block" align="center">
     <h2> 🚀 Projetos em Destaque 🚀 </h2>
     <p>Lista dos meus projetos autorais ou de estudos desenvolvidos em cursos, bootcamps ou videoaulas.</p>
-    &nbsp;
 </div>
 
 <div align="center">
@@ -179,7 +179,6 @@
 <p>👩🏽‍💻 Veja todos os projetos no <strong>meu portfólio online</strong>: <br><br>
 🔗 <a href="https://marcia-moreira.github.io/my_portfolio_Marcia_Moreira">marcia-moreira.github.io/my_portfolio_Marcia_Moreira</a></p>
 <br>
-
 </div>
 
 ##
