@@ -67,6 +67,10 @@
 
 [![AWS Cloud Practitioner](./assets/aws-badge.png)](https://www.credly.com/badges/0bf604db-c0ef-4c4a-9550-b6224e658845/public_url)
 
+## Certificação AWS Cloud Practitioner
+
+[![AWS Cloud Practitioner](aws-certified-cloud-practitioner (6).png)](https://www.credly.com/badges/0bf604db-c0ef-4c4a-9550-b6224e658845/public_url)
+
 </div>
 
 <!-- ==================================================================================================================== -->
