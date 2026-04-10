@@ -46,6 +46,23 @@
 </div>
 
 <!-- ==================================================================================================================== -->
+<!--  CERTIFICAÇÕES: -->
+<!-- ==================================================================================================================== -->
+<div style="display: inline_block;" align="center">
+  <h3>Certificação AWS Cloud Practitioner</h3>
+    &nbsp;
+  <a href="https://www.credly.com/badges/0bf604db-c0ef-4c4a-9550-b6224e658845/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/684e0c7c-2e93-4f39-b0a7-98d6a8a63b64/aws-certified-cloud-practitioner.png" width="150px" />
+  </a>
+     &nbsp;
+  <p>
+      <a href="https://www.credly.com/badges/0bf604db-c0ef-4c4a-9550-b6224e658845/public_url">
+        Ver certificação
+      </a>
+    </p>
+</div>
+
+<!-- ==================================================================================================================== -->
 <!--  LINGUAGENS: -->
 <!-- ==================================================================================================================== -->
 <div style="display: inline_block;" align="center">
