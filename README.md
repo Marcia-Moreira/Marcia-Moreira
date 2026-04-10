@@ -52,7 +52,7 @@
   <h3>Certificação AWS Cloud Practitioner</h3>
 
   <a href="https://www.credly.com/badges/0bf604db-c0ef-4c4a-9550-b6224e658845/public_url">
-    <img src="./assets/aws-cloud-practitioner-032026.png" width="150px">
+    <img src="./assets/aws-cloud-practitioner-032026-p.png" width=80px">
     <p>-Clique na Badge para Veriricar a Certificação na Credly-</p>
   </a>
 </div>
