@@ -60,6 +60,13 @@
         Ver certificação
       </a>
     </p>
+    ## Certificação AWS Cloud Practitioner
+
+[![AWS Cloud Practitioner](https://images.credly.com/size/340x340/images/684e0c7c-2e93-4f39-b0a7-98d6a8a63b64/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/0bf604db-c0ef-4c4a-9550-b6224e658845/public_url)
+
+
+[![AWS Cloud Practitioner](./assets/aws-badge.png)](https://www.credly.com/badges/0bf604db-c0ef-4c4a-9550-b6224e658845/public_url)
+
 </div>
 
 <!-- ==================================================================================================================== -->
