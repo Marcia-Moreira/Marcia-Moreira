@@ -18,8 +18,14 @@
 <!-- SOBRE: -->
 <!-- ==================================================================================================================== -->
 <div style="display: inline_block" align="center">
-    <h2> 👩🏽‍💻 Trabalho com Desenvolvimento Web Front-End </h2>
-    <p> Aprofundando meus 🌱 conhecimentos em  <strong> JavaScript <strong> e cursando PÓS Graduação em <strong> Desenvolvimento Web Full Stack <strong></p>
+    <h2> 👩🏽‍💻 Desenvolvedora em transição com foco em soluções e processos </h2>
+    <!-- <p> Aprofundando meus 🌱 conhecimentos em  <strong> JavaScript <strong> e cursando PÓS Graduação em <strong> Desenvolvimento Web Full Stack <strong></p> -->
+    <p>
+    Construo projetos práticos em JavaScript, Python e fundamentos de Cloud (AWS), com foco em resolver problemas reais, organizar fluxos e melhorar a experiência do usuário.
+    </p>
+    <p>
+    Minha base anterior em operações, análise e relacionamento com clientes orienta a forma como desenvolvo software: conectando tecnologia com necessidades de negócio.
+    </p>
     <h5>...me chame no whatsApp!</h5>
     <a href="https://wa.me/5511977219430" alt="Meu_WhatsApp" target="_blank"><img height="25" width="80" border-radius="10" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> &nbsp;
 </div>
@@ -132,7 +138,7 @@
 <!-- ==================================================================================================================== -->
 <div style="display: inline_block" align="center">
     <h2> 🚀 Projetos em Destaque 🚀 </h2>
-    <p>Lista dos meus projetos autorais ou de estudos desenvolvidos em cursos, bootcamps ou videoaulas.</p>
+    <p>Projetos desenvolvidos com foco em prática, resolução de problemas e aplicação de conceitos em cenários próximos ao mercado.</p>
 </div>
 
 <div align="center">
@@ -150,7 +156,7 @@
     <tr>
       <td>Cafeteria Carioca</td>
       <td>HTML5-CSS3-JS</td>
-      <td>Formulário de login com layout responsivo</td>
+      <td>Implementação de interface de login com foco em usabilidade e adaptação responsiva para diferentes dispositivos</td>
 <!--       <td>Formulário de login com layout responsivo, feito com HTML5, CSS3 e JavaScript Vanilla</td> -->
       <td><a href="https://github.com/Marcia-Moreira/Portfolio_Proj_001-LoginResponsivo">GitHub</a></td>
       <td><a href="https://marcia-moreira.github.io/Portfolio_Proj_001-LoginResponsivo/">Online</a></td>
@@ -158,6 +164,7 @@
     <tr>
       <td>Game Genius</td>
       <td><strong>Landing Page Beleza</strong><br><em>Mobile First, CSS Animado</em></td>
+    <!-- <td>Visualização de dados com gráficos dinâmicos e filtros, simulando apoio à tomada de decisão</td> -->
       <td>Página de produto com design atrativo, animações suaves e foco em mobile first</td>
       <td><a href="https://github.com/Marcia-Moreira/Portfolio_Proj_002-LandingPageBeleza">GitHub</a></td>
       <td><a href="https://marcia-moreira.github.io/Portfolio_Proj_002-LandingPageBeleza/">Online</a></td>
